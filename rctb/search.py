@@ -175,8 +175,17 @@ class TextBase:
                 emb = np.load(idx / "embeddings.npy")
                 score = lambda q: emb @ ollama_embed(meta["model"], [q])[0]
             else:
-                with open(idx / "tfidf.pkl", "rb") as fh:
-                    t = pickle.load(fh)
+                try:
+                    import warnings
+                    with warnings.catch_warnings():
+                        warnings.simplefilter("error")       # an index saved by another scikit-learn version: do not trust it
+                        with open(idx / "tfidf.pkl", "rb") as fh:
+                            t = pickle.load(fh)
+                except Exception:                              # rebuild it in memory from the passages (a second or two)
+                    from sklearn.feature_extraction.text import TfidfVectorizer
+
+                    vec = TfidfVectorizer(analyzer="char_wb", ngram_range=(2, 4), sublinear_tf=True, min_df=1, lowercase=True)
+                    t = {"vectorizer": vec, "matrix": vec.fit_transform(chunks["text"])}
                 score = lambda q: np.asarray((t["matrix"] @ t["vectorizer"].transform([q]).T).todense()).ravel()
             self._index = (meta, chunks, score)
         return self._index

@@ -1,4 +1,4 @@
-# Core (stages inventory, pages, build, embed with tfidf, search)
+# What the viewers and the rule-based stages need. Streamlit Community Cloud installs this file.
 pyyaml
 pydantic>=2
 pandas
@@ -8,14 +8,6 @@ scikit-learn
 openpyxl
 pypdf
 pillow
-pytest
-# Viewer
-streamlit
-# Language-model stages - install the one you use
-anthropic                 # llm.backend: anthropic
-# sentence-transformers   # embedding.backend: sentence_transformers (downloads BAAI/bge-m3, ~2 GB)
-#
-# System tools (not pip): poppler-utils (pdftoppm, pdftotext) and tesseract-ocr with language
-# data eng, jpn, chi_tra, rus.  Debian/Ubuntu:
-#   apt install poppler-utils tesseract-ocr tesseract-ocr-jpn tesseract-ocr-chi-tra tesseract-ocr-rus
-# macOS:  brew install poppler tesseract tesseract-lang
+streamlit>=1.40
+altair
+anthropic                 # only used when llm.backend is anthropic (model stages, Ask tab)

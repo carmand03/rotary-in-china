@@ -22,7 +22,7 @@ No language model and no GPU are needed for this: the sample's intermediate resu
 git clone <this repository>
 cd rotary-in-china
 python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements.txt -r requirements-dev.txt
 
 python -m rctb build          # text database   -> data/out/rctb.sqlite   (29 documents, 46 pages)
 python -m rctb embed          # search index
@@ -37,6 +37,8 @@ python examples/query_python.py
 | Text viewer | Actor viewer |
 |---|---|
 | ![Text viewer](docs/img/text_viewer.png) | ![Actor viewer](docs/img/actor_viewer_person.png) |
+
+To put the two viewers online with a shareable link, see [docs/deploy_streamlit.md](docs/deploy_streamlit.md).
 
 ## What is in the repository
 
@@ -53,7 +55,7 @@ scripts/              harvest_rotaryinchina.py: polite, resumable copy of rotary
 hpc/, notebooks/      running the model steps on the Huma-Num / CC-IN2P3 GPU platform
 examples/             querying the databases from Python and R
 tests/                unit tests
-docs/                 documentation of both databases, pipeline diagrams
+docs/                 documentation of both databases, pipeline diagrams, deployment of the viewers
 data/raw/             the archive index; put scans here (see data/raw/README.md)
 data/work/            intermediate results of the sample (page texts, segmentation, enrichment)
 data/out/             the sample text database, page images, search index, QA report

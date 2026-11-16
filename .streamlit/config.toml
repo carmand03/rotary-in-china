@@ -1,0 +1,9 @@
+# Settings for the two viewers (used locally and on Streamlit Community Cloud)
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#0f6e56"

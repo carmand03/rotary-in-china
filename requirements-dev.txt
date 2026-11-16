@@ -1,0 +1,8 @@
+# Extra tools for working on the code:  pip install -r requirements.txt -r requirements-dev.txt
+pytest
+datasette
+# sentence-transformers   # embedding.backend: sentence_transformers (downloads BAAI/bge-m3, about 2 GB)
+#
+# System tools for the stages that read scans (not needed by the viewers):
+#   macOS:          brew install poppler tesseract tesseract-lang
+#   Debian/Ubuntu:  apt install poppler-utils tesseract-ocr tesseract-ocr-jpn tesseract-ocr-chi-tra tesseract-ocr-rus
