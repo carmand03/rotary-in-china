@@ -1,0 +1,17 @@
+﻿position_id,label,domain,category
+MEMBER,Regular Member,rotary,membership
+MEMBER_ASSOCIATE,Associate/Supplementary Member,rotary,membership
+MEMBER_HONORARY,Honorary Member,rotary,membership
+PRESIDENT,President,rotary,officers
+VICE_PRESIDENT,Vice-President,rotary,officers
+SECRETARY,Secretary,rotary,officers
+HON_SECRETARY,Honorary Secretary,rotary,officers
+TREASURER,Treasurer,rotary,officers
+SERGEANT_AT_ARMS,Sergeant-At-Arms,rotary,officers
+HON_TREASURER,Honorary Treasurer,rotary,officers
+CORR_SECRETARY,Corresponding Secretary,rotary,officers
+PAST_PRESIDENT,Past President,rotary,officers
+BOARD_CHAIRMAN,"Chairman, Board of Directors",rotary,board
+BOARD_MEMBER,Director,rotary,board
+COMMITTEE_CHAIRMAN,Committee Chairman,rotary,committee
+COMMITTEE_MEMBER,Committee Member,rotary,committee

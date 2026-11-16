@@ -1,0 +1,151 @@
+﻿person_id,club_id,surname,given,vernacular_name,status,rule,suggested_id,n_attestations
+P00031,harbin,Adachi,T.,,auto,"same family name, compatible given name or initials",,4
+P00031,harbin,Adachi,Toshio,,auto,new person,,1
+P00072,harbin,Ahnert,E.,,auto,"same family name, compatible given name or initials",,1
+P00072,harbin,Ahnert,E. E.,アーネルト,auto,new person,,1
+P00001,harbin,Baitelin,N.,,auto,"same family name, compatible given name or initials",,4
+P00001,harbin,Baitelin,N. S.,,auto,"same family name, compatible given name or initials",,13
+P00001,harbin,Baitelin,Nicolai Sophronievich,,auto,new person,,1
+P00001,harbin,Baitelin,Nicolas S.,,auto,"same family name, compatible given name or initials",,5
+P00064,harbin,Balser,K.L.,,auto,new person,,2
+P00065,harbin,Baltelin,N.S.,,suggested,"similar family name, or given name missing",P00001,2
+P00066,harbin,Bitting,S.T.,,auto,new person,,2
+P00067,harbin,Bouianovsky,N.D.,,auto,new person,,2
+P00073,harbin,Bryner,L.,,auto,"same family name, compatible given name or initials",,5
+P00073,harbin,Bryner,L. J.,ブリーネル,auto,new person,,1
+P00073,harbin,Bryner,L.J.,,auto,"same family name, compatible given name or initials",,1
+P00029,harbin,Ehara,K.,江原綱一,auto,same name in Chinese/Japanese characters,,2
+P00029,harbin,Ehara,Koichi,江原綱一,auto,new person,,2
+P00042,harbin,Fujii,Chuji,,auto,new person,,1
+P00037,harbin,Fujimaki,Naoki,,auto,new person,,4
+P00008,harbin,Fujita,Y.,,auto,"same family name, compatible given name or initials",,9
+P00008,harbin,Fujita,Yoshiichi,,auto,new person,,2
+P00021,harbin,Furuta,Kanichi,,auto,new person,,1
+P00082,harbin,Gundel,Y.,,auto,new person,,5
+P00027,harbin,Gundsi,Y.,,auto,"same family name, compatible given name or initials",,18
+P00027,harbin,Gundsi,Yoshio,軍司義男,auto,new person,,14
+P00055,harbin,Haag,H.,,auto,"same family name, compatible given name or initials",,12
+P00055,harbin,Haag,H. L.,,auto,new person,,6
+P00055,harbin,Haag,H.L.,,auto,"same family name, compatible given name or initials",,4
+P00043,harbin,Hakozaki,B.,,auto,"same family name, compatible given name or initials",,7
+P00043,harbin,Hakozaki,Bunya,,auto,new person,,1
+P00044,harbin,Hakozaki,Eunya,,auto,new person,,1
+P00068,harbin,Hanson,G.,,auto,"same family name, compatible given name or initials",,2
+P00068,harbin,Hanson,G. C.,,auto,new person,,2
+P00068,harbin,Hanson,G.C.,,auto,"same family name, compatible given name or initials",,2
+P00010,harbin,Hasegawa,Y.,,auto,"same family name, compatible given name or initials",,4
+P00010,harbin,Hasegawa,Yoshikazu,,auto,new person,,1
+P00056,harbin,Hassek,A.,,auto,"same family name, compatible given name or initials",,1
+P00056,harbin,Hassek,A. E.,ハッセク,auto,new person,,6
+P00056,harbin,Hassek,A.E.,,auto,"same family name, compatible given name or initials",,1
+P00085,harbin,Hejny,R.,ヘイニー,auto,new person,,3
+P00014,harbin,Hirayama,R.,,auto,"same family name, compatible given name or initials",,7
+P00014,harbin,Hirayama,Ryokichi,,auto,new person,,2
+P00045,harbin,Iigura,Hanzo,,auto,new person,,1
+P00046,harbin,Ikawa,Kaoru,,auto,new person,,1
+P00007,harbin,Ishihara,Shigetaka,,auto,new person,,4
+P00017,harbin,Ishikawa,Takejiro,,auto,new person,,1
+P00079,harbin,Iwanaga,Kō,,auto,new person,,1
+P00059,harbin,Janushovsky,R.,,auto,"same family name, compatible given name or initials",,1
+P00059,harbin,Janushovsky,R.J.,,suggested,"similar family name, or given name missing",P00057,4
+P00057,harbin,Janushowsky,R.,,auto,"same family name, compatible given name or initials",,3
+P00057,harbin,Janushowsky,R. J.,,auto,new person,,5
+P00074,harbin,Januszowski,R. J.,ヤヌショフスキー,suggested,"similar family name, or given name missing",P00057,1
+P00080,harbin,Kanai,K.,金井清,auto,new person,,8
+P00075,harbin,Kassianoff,N. A.,カシヤノフ,auto,new person,,1
+P00040,harbin,Kato,A.,加藤明,auto,"same family name, compatible given name or initials",,13
+P00040,harbin,Kato,Akira,,auto,new person,,2
+P00090,harbin,Katoh,B.,加藤武濟,auto,new person,,1
+P00076,harbin,Kaufman,E. S.,カウフマン,auto,new person,,1
+P00022,harbin,Kawamura,N.,河村仁四郎,auto,"same family name, compatible given name or initials",,1
+P00022,harbin,Kawamura,Nishiro,,auto,new person,,1
+P00036,harbin,Kawasumi,T.,川角忠雄,auto,same name in Chinese/Japanese characters,,30
+P00036,harbin,Kawasumi,Tadao,川角忠雄,auto,new person,,5
+P00032,harbin,Kitora,Motaro,,auto,new person,,1
+P00086,harbin,Kokubu,N.,國分信夫,auto,new person,,3
+P00060,harbin,Korelin,A.,,auto,"same family name, compatible given name or initials",,2
+P00060,harbin,Korelin,A. M.,コレーリン,auto,new person,,4
+P00060,harbin,Korelin,A.M.,,auto,"same family name, compatible given name or initials",,1
+P00047,harbin,Kowasaki,T.,川崎虎雄,auto,"same family name, compatible given name or initials",,2
+P00047,harbin,Kowasaki,Torao,剛崎虎雄,suggested,"similar family name, or given name missing",P00038,1
+P00038,harbin,Kowazaki,T.,,auto,"same family name, compatible given name or initials",,11
+P00038,harbin,Kowazaki,Torao,,auto,new person,,4
+P00062,harbin,Kusik,H.A.,,auto,new person,,3
+P00062,harbin,Kusik,H. A.,クーシク,auto,"same family name, compatible given name or initials",,1
+P00099,harbin,Kwiatkowski,,クヴィアトコフスキー,auto,new person,,1
+P00052,harbin,Lange,H.,ランゲ,auto,"same family name, compatible given name or initials",,10
+P00052,harbin,Lange,Hans,,auto,new person,,1
+P00006,harbin,Li,Shao-Ken,,auto,"same family name, compatible given name or initials",,5
+P00006,harbin,Li,Shao-Keng,,auto,new person,,6
+P00058,harbin,Lui,Tai,呂泰,auto,new person,,5
+P00028,harbin,Maeda,T.,前田利男,auto,same name in Chinese/Japanese characters,,10
+P00028,harbin,Maeda,Toshio,前田利男,auto,new person,,3
+P00053,harbin,Maeda,Kogi,,auto,new person,,1
+P00023,harbin,Masuda,Teiichi,,auto,new person,,1
+P00033,harbin,Mayeda,Toshio,,suggested,"similar family name, or given name missing",P00028,1
+P00003,harbin,Minsky,V.,ミンスキー,auto,same name in Chinese/Japanese characters,,6
+P00003,harbin,Minsky,V. N.,ミンスキー,auto,"same family name, compatible given name or initials",,8
+P00003,harbin,Minsky,V.N.,,auto,"same family name, compatible given name or initials",,2
+P00003,harbin,Minsky,Vladimir N.,,auto,new person,,1
+P00087,harbin,Minsky,Y.,,auto,new person,,2
+P00018,harbin,Mitsutake,Kuniichi,,auto,new person,,1
+P00041,harbin,Mizukami,T.,,auto,"same family name, compatible given name or initials",,4
+P00041,harbin,Mizukami,Takio,,auto,new person,,2
+P00088,harbin,Morishima,M.,,auto,new person,,2
+P00091,harbin,Nakazawa,M.,中澤正治,auto,new person,,1
+P00092,harbin,Ohashi,C.,,auto,new person,,1
+P00020,harbin,Oka,S.,,auto,"same family name, compatible given name or initials",,2
+P00020,harbin,Oka,Shigeru,,auto,new person,,2
+P00004,harbin,Oksakovsky,T.E.,,auto,"same family name, compatible given name or initials",,4
+P00004,harbin,Oksakovsky,T. E.,オクサコフスキー,auto,"same family name, compatible given name or initials",,1
+P00004,harbin,Oksakovsky,Theodore E.,,auto,new person,,1
+P00054,harbin,Oksakowsky,T. E.,,suggested,"similar family name, or given name missing",P00004,7
+P00077,harbin,Oksakowsky,T. F.,,auto,new person,,1
+P00083,harbin,Oksakowsky,T.,,suggested,several possible matches,P00054 / P00077 / P00004,5
+P00011,harbin,Onoe,T.,,auto,"same family name, compatible given name or initials",,9
+P00011,harbin,Onoe,Toshiharu,,auto,new person,,1
+P00084,harbin,Onoye,T.,,suggested,"similar family name, or given name missing",P00011,4
+P00069,harbin,Ostroumoff,A.S.,,suggested,"similar family name, or given name missing",P00061,2
+P00069,harbin,Ostroumoff,A. S.,オストロウモフ,auto,"same family name, compatible given name or initials",,1
+P00061,harbin,Ostroumov,A.,,auto,"same family name, compatible given name or initials",,3
+P00061,harbin,Ostroumov,A. S.,,auto,new person,,4
+P00061,harbin,Ostroumov,A.S.,,auto,"same family name, compatible given name or initials",,1
+P00070,harbin,Radwan,W. J.,ラードワン,auto,new person,,2
+P00012,harbin,Saga,Tsunejiro,,auto,new person,,1
+P00048,harbin,Sahara,K.,佐原嘉次,auto,"same family name, compatible given name or initials",,1
+P00048,harbin,Sahara,Kenji,,auto,new person,,1
+P00019,harbin,Sasaki,Kiumatsu,,auto,new person,,1
+P00019,harbin,Sasaki,Kyumatsu,,auto,"same family name, compatible given name or initials",,1
+P00089,harbin,Sato,H.,佐藤弘愛,auto,new person,,2
+P00093,harbin,Sato,T.,佐藤俊久,auto,new person,,1
+P00071,harbin,Schwayer,A.V.,,auto,new person,,2
+P00063,harbin,Schweyer,A.H.,,auto,new person,,3
+P00063,harbin,Schweyer,A. H.,シワイヤー,auto,"same family name, compatible given name or initials",,1
+P00094,harbin,Shimada,C.,島田千代治,auto,new person,,1
+P00095,harbin,Silberstein,E.,,auto,new person,,1
+P00002,harbin,Simpson,Evelyn Lenox,,auto,new person,,1
+P00015,harbin,Takahashi,Kan-ichi,,auto,new person,,2
+P00024,harbin,Takahashi,Kanichi,,auto,new person,,1
+P00081,harbin,Takahashi,K.,,suggested,several possible matches,P00015 / P00024,6
+P00025,harbin,Takahata,S.,高畑誠一,auto,"same family name, compatible given name or initials",,13
+P00025,harbin,Takahata,Seiichi,,auto,new person,,1
+P00034,harbin,Takata,T.,高田富藏,auto,"same family name, compatible given name or initials",,17
+P00034,harbin,Takata,Tomizo,,auto,new person,,1
+P00035,harbin,Takeda,Tomizo,,auto,new person,,1
+P00030,harbin,Tsukishima,Shinji,,auto,new person,,2
+P00049,harbin,Usami,Kanji,,auto,new person,,1
+P00098,harbin,van Custem,A.,,auto,new person,,1
+P00101,harbin,van Custem,,ワンカッ ?ム,suggested,"similar family name, or given name missing",P00098,1
+P00039,harbin,Waters,R.A.S.,,auto,new person,,4
+P00039,harbin,Waters,R. A. S.,,auto,"same family name, compatible given name or initials",,2
+P00050,harbin,Waters,R.S.T.,,auto,new person,,1
+P00096,harbin,Waters,R.,,suggested,several possible matches,P00039 / P00050,1
+P00078,harbin,Woog,J. W.,ウォーグ,auto,new person,,1
+P00009,harbin,Yagi,Motohachi,,auto,new person,,2
+P00097,harbin,Yamashita,M.,山下正樹,auto,new person,,1
+P00016,harbin,Yen,Chuan-Fu,閻傳紱,auto,new person,,2
+P00051,harbin,Yoshida,Shiro,,auto,new person,,1
+P00005,harbin,Yu,Heng-Siang,于衡湘,auto,new person,,1
+P00013,harbin,Yu,Ching-Tao,于鏡濤,auto,new person,,1
+P00026,harbin,Yu,Shao-Wu,兪紹武,auto,new person,,1
+P00100,harbin,Zikman,,ツィークマン,auto,new person,,1

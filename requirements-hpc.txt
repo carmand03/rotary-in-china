@@ -1,0 +1,9 @@
+pyyaml
+pydantic>=2
+pandas
+pyarrow
+numpy
+scikit-learn
+openpyxl
+pypdf
+pillow

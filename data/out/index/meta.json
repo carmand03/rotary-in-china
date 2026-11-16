@@ -1,0 +1,8 @@
+{
+  "backend": "tfidf",
+  "n_chunks": 77,
+  "time": "2026-11-16T19:35:41+00:00",
+  "chunk_chars": 1200,
+  "chunk_overlap": 200,
+  "model": "tfidf char_wb 2-4"
+}

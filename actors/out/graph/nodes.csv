@@ -1,0 +1,201 @@
+﻿id,label,type
+P00001,"Baitelin, Nicolai Sophronievich",person
+P00002,"Simpson, Evelyn Lenox",person
+P00003,"Minsky, Vladimir N.",person
+P00004,"Oksakovsky, Theodore E.",person
+P00005,"Yu, Heng-Siang",person
+P00006,"Li, Shao-Keng",person
+P00007,"Ishihara, Shigetaka",person
+P00008,"Fujita, Yoshiichi",person
+P00009,"Yagi, Motohachi",person
+P00010,"Hasegawa, Yoshikazu",person
+P00011,"Onoe, Toshiharu",person
+P00012,"Saga, Tsunejiro",person
+P00013,"Yu, Ching-Tao",person
+P00014,"Hirayama, Ryokichi",person
+P00015,"Takahashi, Kan-ichi",person
+P00016,"Yen, Chuan-Fu",person
+P00017,"Ishikawa, Takejiro",person
+P00018,"Mitsutake, Kuniichi",person
+P00019,"Sasaki, Kyumatsu",person
+P00020,"Oka, Shigeru",person
+P00021,"Furuta, Kanichi",person
+P00022,"Kawamura, Nishiro",person
+P00023,"Masuda, Teiichi",person
+P00024,"Takahashi, Kanichi",person
+P00025,"Takahata, Seiichi",person
+P00026,"Yu, Shao-Wu",person
+P00027,"Gundsi, Yoshio",person
+P00028,"Maeda, Toshio",person
+P00029,"Ehara, Koichi",person
+P00030,"Tsukishima, Shinji",person
+P00031,"Adachi, Toshio",person
+P00032,"Kitora, Motaro",person
+P00033,"Mayeda, Toshio",person
+P00034,"Takata, Tomizo",person
+P00035,"Takeda, Tomizo",person
+P00036,"Kawasumi, Tadao",person
+P00037,"Fujimaki, Naoki",person
+P00038,"Kowazaki, Torao",person
+P00039,"Waters, R.A.S.",person
+P00040,"Kato, Akira",person
+P00041,"Mizukami, Takio",person
+P00042,"Fujii, Chuji",person
+P00043,"Hakozaki, Bunya",person
+P00044,"Hakozaki, Eunya",person
+P00045,"Iigura, Hanzo",person
+P00046,"Ikawa, Kaoru",person
+P00047,"Kowasaki, Torao",person
+P00048,"Sahara, Kenji",person
+P00049,"Usami, Kanji",person
+P00050,"Waters, R.S.T.",person
+P00051,"Yoshida, Shiro",person
+P00052,"Lange, Hans",person
+P00053,"Maeda, Kogi",person
+P00054,"Oksakowsky, T. E.",person
+P00055,"Haag, H. L.",person
+P00056,"Hassek, A. E.",person
+P00057,"Janushowsky, R. J.",person
+P00058,"Lui, Tai",person
+P00059,"Janushovsky, R.J.",person
+P00060,"Korelin, A. M.",person
+P00061,"Ostroumov, A. S.",person
+P00062,"Kusik, H.A.",person
+P00063,"Schweyer, A.H.",person
+P00064,"Balser, K.L.",person
+P00065,"Baltelin, N.S.",person
+P00066,"Bitting, S.T.",person
+P00067,"Bouianovsky, N.D.",person
+P00068,"Hanson, G.C.",person
+P00069,"Ostroumoff, A.S.",person
+P00070,"Radwan, W. J.",person
+P00071,"Schwayer, A.V.",person
+P00072,"Ahnert, E. E.",person
+P00073,"Bryner, L.J.",person
+P00074,"Januszowski, R. J.",person
+P00075,"Kassianoff, N. A.",person
+P00076,"Kaufman, E. S.",person
+P00077,"Oksakowsky, T. F.",person
+P00078,"Woog, J. W.",person
+P00079,"Iwanaga, Kō",person
+P00080,"Kanai, K.",person
+P00081,"Takahashi, K.",person
+P00082,"Gundel, Y.",person
+P00083,"Oksakowsky, T.",person
+P00084,"Onoye, T.",person
+P00085,"Hejny, R.",person
+P00086,"Kokubu, N.",person
+P00087,"Minsky, Y.",person
+P00088,"Morishima, M.",person
+P00089,"Sato, H.",person
+P00090,"Katoh, B.",person
+P00091,"Nakazawa, M.",person
+P00092,"Ohashi, C.",person
+P00093,"Sato, T.",person
+P00094,"Shimada, C.",person
+P00095,"Silberstein, E.",person
+P00096,"Waters, R.",person
+P00097,"Yamashita, M.",person
+P00098,"van Custem, A.",person
+P00099,Kwiatkowski,person
+P00100,Zikman,person
+P00101,van Custem,person
+harbin,Harbin,club
+I00001,International Wagons-Lits Co.,institution
+I00002,Japanese Chamber of Commerce & Industry,institution
+I00003,Japanese Commercial Museum,institution
+I00004,1st Harbin Real School for Boys,institution
+I00005,Harbin Direction of State Railways,institution
+I00006,Harbin Steamship Syndicate,institution
+I00007,Maeda Shoten,institution
+I00008,Mitsubishi Shoji Kaisha,institution
+I00009,Yokohama Specie Bank,institution
+I00010,Bank of Chosen,institution
+I00011,"Bank of Chosen, Harbin Branch",institution
+I00012,Barrister at law,institution
+I00013,British American Tobacco Co. (North Manchurian Division),institution
+I00014,Bryner & Co.,institution
+I00015,Brynor & Co.,institution
+I00016,C-ie Francaise de Commerce en Chine,institution
+I00017,C. E. Rly.,institution
+I00018,C.E.R. Tupahn's Office,institution
+I00019,Customs Office,institution
+I00020,Czechoslovak Consulate,institution
+I00021,Fujii Yoko,institution
+I00022,Harbin Bunka Kyokai,institution
+I00023,Harbin Customs,institution
+I00024,Harbin Exchange Ltd.,institution
+I00025,Harbin Hospital of South Manchurian Railway,institution
+I00026,Hokuman Denki Kaisha Ltd.,institution
+I00027,Hokuman Hotel,institution
+I00028,Hokuman Seiyu Kaisha Ltd.,institution
+I00029,Int. Wagons-Lits Co.,institution
+I00030,"International Express Co. Ltd., Harbin",institution
+I00031,International Harvester Export Co.,institution
+I00032,J. J. Tschurin & Co.,institution
+I00033,"Japanese Consulate, Harbin",institution
+I00034,"Japanese Hospital, Harbin",institution
+I00035,Kawasaki Kisen Kaisha,institution
+I00036,"Kawasaki Steamship Co., Ltd.",institution
+I00037,Kokusai Un'yu Kaisha,institution
+I00038,Kokusai Unyu,institution
+I00039,Korelin & Co.,institution
+I00040,Kyokuto Unyu Kumiai,institution
+I00041,Louis Dreyfus & Co.,institution
+I00042,Lui Tai & Co.,institution
+I00043,Manchurian Enlightening Society,institution
+I00044,Matsuura Shokai,institution
+I00045,Matsuura Yoko,institution
+I00046,Mayeda Shoten,institution
+I00047,"Minami Manshu Tetsudo Kabushiki Kaisha, Harbin Branch",institution
+I00048,Mitsui Bussan Kaisha Ltd.,institution
+I00049,"Mitsui Bussan Kaisha Ltd., Harbin Branch",institution
+I00050,Mitsutake Shoten,institution
+I00051,Mulin Coal Mining Co.,institution
+I00052,Municipal Administration of Greater Harbin,institution
+I00053,N. Adler & Co.,institution
+I00054,Nichiman Seifun Kaisha Ltd.,institution
+I00055,Nichiro Kyokai Gakko,institution
+I00056,"Nikolai Adler, Harbin",institution
+I00057,North Manchuria Electric Co.,institution
+I00058,"North Manchurian Sugar Co., Ltd.",institution
+I00059,Oksakovsky’s Secondary Schools,institution
+I00060,Oriental Plantat. Co.,institution
+I00061,Osaka Shosen Kaisha (Harbin Office),institution
+I00062,Ping-Kiang Province Government,institution
+I00063,Police Department of Greater Harbin,institution
+I00064,Polish Consulate,institution
+I00065,Russo-Japanese Institute,institution
+I00066,S. M. R.,institution
+I00067,S. M. Rly.,institution
+I00068,S.M. Railway,institution
+I00069,Saga Shoten,institution
+I00070,"Showa Spirit Co., Ltd.",institution
+I00071,Sinryu Yoko,institution
+I00072,Skoda Works,institution
+I00073,South Manchuria Railway,institution
+I00074,"South Manchuria Railway Ltd., Harbin",institution
+I00075,"South Manchuria Railway Ltd., Harbin Branch",institution
+I00076,"South Manchuria Railway, Department of Foreign Affairs, Harbin",institution
+I00077,The Harbin Herald,institution
+I00078,Toyo Menka,institution
+I00079,"Toyo Menka Kaisha Ltd., Harbin Agent",institution
+I00080,"Toyo Takushoku Kaisha, Harbin Branch",institution
+I00081,V. N. Minsky Law Office,institution
+I00082,Vice Consulate General of Belgium,institution
+I00083,Y.M.C.A.,institution
+I00084,"Yokohama Specie Bank Ltd., Harbin Branch",institution
+I00085,“Zaria” Publishing Co.,institution
+C00001,Club Service Committee,committee
+C00002,Membership Committee,committee
+C00003,Aims and Object Committee,committee
+C00004,International Service Committee,committee
+C00005,Fellowship Committee,committee
+C00006,Program Committee,committee
+C00007,Community Service Committee,committee
+C00008,Classification Committee,committee
+C00009,Editorial Committee,committee
+C00010,Vocational Service Committee,committee
+C00011,Public Information Committee,committee
+C00012,Attendance Committee,committee
+C00013,Vocational Committee,committee

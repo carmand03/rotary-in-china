@@ -1,0 +1,614 @@
+{
+  "properties": {
+    "genre": {
+      "type": "string",
+      "enum": [
+        "correspondence",
+        "roster",
+        "report",
+        "news_clipping",
+        "regulations",
+        "pamphlet",
+        "periodical",
+        "certificate",
+        "administrative_record",
+        "other"
+      ]
+    },
+    "dates": {
+      "default": [],
+      "items": {
+        "properties": {
+          "type": {
+            "description": "produced = written/sent/issued; received = e.g. receipt stamp; modified = e.g. date an excerpt or copy was made; other = any other date role",
+            "enum": [
+              "produced",
+              "received",
+              "modified",
+              "other"
+            ],
+            "type": "string"
+          },
+          "value": {
+            "anyOf": [
+              {
+                "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "ISO date; truncate to YYYY-MM or YYYY if day/month unknown"
+          },
+          "as_written": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "the date exactly as it appears on the page"
+          },
+          "certainty": {
+            "default": "certain",
+            "enum": [
+              "certain",
+              "uncertain"
+            ],
+            "type": "string"
+          }
+        },
+        "required": [
+          "type"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "place_origin": {
+      "description": "A value plus how sure we are: lets 'not specified / not applicable / uncertain' be queried.",
+      "properties": {
+        "value": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "status": {
+          "default": "not_specified",
+          "enum": [
+            "specified",
+            "inferred",
+            "uncertain",
+            "not_specified",
+            "not_applicable"
+          ],
+          "type": "string"
+        }
+      },
+      "type": "object"
+    },
+    "place_destination": {
+      "description": "A value plus how sure we are: lets 'not specified / not applicable / uncertain' be queried.",
+      "properties": {
+        "value": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        },
+        "status": {
+          "default": "not_specified",
+          "enum": [
+            "specified",
+            "inferred",
+            "uncertain",
+            "not_specified",
+            "not_applicable"
+          ],
+          "type": "string"
+        }
+      },
+      "type": "object"
+    },
+    "creators": {
+      "default": [],
+      "items": {
+        "properties": {
+          "name": {
+            "description": "as written in the document",
+            "type": "string"
+          },
+          "role": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "kind": {
+            "default": "person",
+            "enum": [
+              "person",
+              "organization",
+              "unknown"
+            ],
+            "type": "string"
+          }
+        },
+        "required": [
+          "name"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "recipients": {
+      "default": [],
+      "items": {
+        "properties": {
+          "name": {
+            "description": "as written in the document",
+            "type": "string"
+          },
+          "role": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "kind": {
+            "default": "person",
+            "enum": [
+              "person",
+              "organization",
+              "unknown"
+            ],
+            "type": "string"
+          }
+        },
+        "required": [
+          "name"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "languages": {
+      "default": [],
+      "description": "ISO 639-1 codes, e.g. en, zh, ja, ru, fr",
+      "items": {
+        "type": "string"
+      },
+      "type": "array"
+    },
+    "summary": {
+      "description": "in English",
+      "type": "string"
+    },
+    "has_illustration": {
+      "default": false,
+      "type": "boolean"
+    },
+    "illustrations": {
+      "default": [],
+      "items": {
+        "properties": {
+          "page": {
+            "type": "integer"
+          },
+          "alt_text": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "page",
+          "alt_text"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "has_table": {
+      "default": false,
+      "type": "boolean"
+    },
+    "tables": {
+      "default": [],
+      "items": {
+        "properties": {
+          "page": {
+            "type": "integer"
+          },
+          "caption": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "markdown": {
+            "description": "the table transcribed as a Markdown table, cell text verbatim",
+            "type": "string"
+          }
+        },
+        "required": [
+          "page",
+          "markdown"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "entities": {
+      "properties": {
+        "persons": {
+          "default": [],
+          "items": {
+            "properties": {
+              "name": {
+                "description": "as written in the document",
+                "type": "string"
+              },
+              "role": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "normalized": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "description": "standard form if confidently known, else null"
+              }
+            },
+            "required": [
+              "name"
+            ],
+            "type": "object"
+          },
+          "type": "array"
+        },
+        "organizations": {
+          "default": [],
+          "items": {
+            "properties": {
+              "name": {
+                "description": "as written in the document",
+                "type": "string"
+              },
+              "role": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "normalized": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "description": "standard form if confidently known, else null"
+              }
+            },
+            "required": [
+              "name"
+            ],
+            "type": "object"
+          },
+          "type": "array"
+        },
+        "locations": {
+          "default": [],
+          "items": {
+            "properties": {
+              "name": {
+                "description": "as written in the document",
+                "type": "string"
+              },
+              "role": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "normalized": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "description": "standard form if confidently known, else null"
+              }
+            },
+            "required": [
+              "name"
+            ],
+            "type": "object"
+          },
+          "type": "array"
+        },
+        "events": {
+          "default": [],
+          "items": {
+            "properties": {
+              "name": {
+                "description": "as written in the document",
+                "type": "string"
+              },
+              "role": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "normalized": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "description": "standard form if confidently known, else null"
+              }
+            },
+            "required": [
+              "name"
+            ],
+            "type": "object"
+          },
+          "type": "array"
+        },
+        "works": {
+          "default": [],
+          "items": {
+            "properties": {
+              "name": {
+                "description": "as written in the document",
+                "type": "string"
+              },
+              "role": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "normalized": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "description": "standard form if confidently known, else null"
+              }
+            },
+            "required": [
+              "name"
+            ],
+            "type": "object"
+          },
+          "type": "array"
+        }
+      },
+      "type": "object"
+    },
+    "items": {
+      "default": [],
+      "description": "only for sheets carrying several separate items; else empty",
+      "items": {
+        "description": "One of several separate items on a single sheet (press clippings, pasted slips).",
+        "properties": {
+          "label": {
+            "description": "headline or short description of the item",
+            "type": "string"
+          },
+          "source": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "newspaper or issuing body, as written"
+          },
+          "date": {
+            "anyOf": [
+              {
+                "pattern": "^\\d{4}(-\\d{2}(-\\d{2})?)?$",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "date_as_written": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "page": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "first_words": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "its first 6-10 words, verbatim, to locate it in the text"
+          }
+        },
+        "required": [
+          "label"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "notes": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "uncertainties, legibility problems, stamps, annotations"
+    },
+    "doc_id": {
+      "type": "string"
+    },
+    "file_number": {
+      "type": "string"
+    },
+    "pages": {
+      "items": {
+        "type": "integer"
+      },
+      "type": "array"
+    },
+    "start_page": {
+      "type": "integer"
+    },
+    "end_page": {
+      "type": "integer"
+    },
+    "full_text": {
+      "type": "string"
+    },
+    "page_offsets": {
+      "additionalProperties": {
+        "type": "integer"
+      },
+      "description": "character offset in full_text where each page starts",
+      "type": "object"
+    },
+    "review_status": {
+      "default": "unreviewed",
+      "enum": [
+        "unreviewed",
+        "reviewed"
+      ],
+      "type": "string"
+    },
+    "provenance": {
+      "additionalProperties": true,
+      "default": {},
+      "type": "object"
+    }
+  },
+  "required": [
+    "genre",
+    "title",
+    "summary",
+    "doc_id",
+    "file_number",
+    "pages",
+    "start_page",
+    "end_page",
+    "full_text",
+    "page_offsets"
+  ],
+  "type": "object"
+}

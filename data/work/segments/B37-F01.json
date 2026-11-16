@@ -1,0 +1,283 @@
+{
+  "file_number": "B37-F01",
+  "method": "manual",
+  "annotator": "Claude (claude-fable-5-2), interactive session",
+  "pages": [
+    {
+      "page": 1,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 2,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 3,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 4,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 5,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 6,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 7,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 8,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 9,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 10,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 11,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 12,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 13,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 14,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 15,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 16,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 17,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 18,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 19,
+      "relation": "blank",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 20,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 21,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 22,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 23,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 24,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 25,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 26,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 27,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 28,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 29,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 30,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 31,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 32,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 33,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 34,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 35,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 36,
+      "relation": "continues",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 37,
+      "relation": "blank",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 38,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 39,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 40,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 41,
+      "relation": "blank",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 42,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 43,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 44,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 45,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    },
+    {
+      "page": 46,
+      "relation": "new",
+      "continues_page": null,
+      "note": null
+    }
+  ]
+}

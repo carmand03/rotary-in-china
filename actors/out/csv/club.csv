@@ -1,0 +1,37 @@
+﻿club_id,name,other_names,charter_number,country,place_id,city_today,city_today_zh,province_today,province_today_zh,organized,chartered,admitted,terminated,meeting_day,meeting_time,meeting_place,languages,publication,publication_title,publication_periodicity,archive_folders,n_folders,pages,folders_with_page_count,has_actor_data
+amoy,Amoy,,,China,amoy,Xiamen,厦门,Fujian,福建,,1933-10-23,1933-10-23; 1948-06-02,1943-12-21; 1950-12-21,,,,,,,,"B09-F06, B09-F07",2,,0,0
+canton,Canton,,,China,canton,Guangzhou,广州,Guangdong,广东,,1931-12-15,1931-12-15; 1946-12-27,1943-12-31; 1950-12-21,,,,,,,,"B09-F08, B09-F09",2,111.0,2,0
+changsha,Changsha,,,China,changsha,Changsha,长沙,Hunan,湖南,,1937-04-09,1937-04-09,1950-12-21,,,,,,,,B09-F10,1,,0,0
+chengtu,Chengtu,,,China,chengtu,Chengdu,成都,Sichuan,四川,,1938-06-14,1938-06-14,1950-12-21,,,,,,,,B09-F11,1,,0,0
+chinkiang,Chinkiang,,,China,chinkiang,Zhenjiang,镇江,Jiangsu,江苏,,1939-11-25,1939-11-25; 1947-03-28,1943-12-31; 1950-12-21,,,,,,,,"B09-F12, B09-F13",2,,0,0
+chungking,Chungking,,,China,chungking,Chongqing,重庆,Chongqing (municipality),重庆市,,1937-06-03,1937-06-03,1950-12-21,,,,,,,,B10-F01,1,192.0,1,0
+foochow,Foochow,,,China,foochow,Fuzhou,福州,Fujian,福建,,1933-06-21,1933-06-21,1950-12-21,,,,,,,,B10-F02,1,,0,0
+hangchow,Hangchow,,,China,hangchow,Hangzhou,杭州,Zhejiang,浙江,1931-04-11,1932-06-23,1932-06-23; 1947-06-30,1943-12-31; 1950-12-21,,,,,,,,"B10-F03, B10-F04",2,158.0,2,0
+hankow,Hankow,,,China,hankow,Wuhan (Hankou),武汉（汉口）,Hubei,湖北,,1933-12-20,1933-12-20; 1946-05-25,1943-12-31; 1950-12-21,,,,,,,,"B10-F05, B10-F06",2,,0,0
+kaifeng,Kaifeng,,,China,kaifeng,Kaifeng,开封,Henan,河南,,1936-05-13,1936-05-13,1943-12-31,,,,,,,,B10-F07,1,,0,0
+kunming,Kunming,,,China,kunming,Kunming,昆明,Yunnan,云南,,1937-05-28,1937-05-28,1950-12-21,,,,,,,,B10-F08,1,,0,0
+kweilin,Kweilin,,,China,kweilin,Guilin,桂林,Guangxi,广西,,1944-06-16,1944-06-16,1946-06-04,,,,,,,,B10-F09,1,,0,0
+kweiyang,Kweiyang,,,China,kweiyang,Guiyang,贵阳,Guizhou,贵州,,1945-04-23,1945-04-23,1950-12-21,,,,,,,,B10-F10,1,,0,0
+lanchow,Lanchow,,,China,lanchow,Lanzhou,兰州,Gansu,甘肃,,1943-11-11,1943-11-11,1950-12-21,,,,,,,,B10-F11,1,,0,0
+liuchow,Liuchow,,,China,liuchow,Liuzhou,柳州,Guangxi,广西,,1948-12-14,1948-12-14,1950-12-21,,,,,,,,B10-F12,1,,0,0
+mukden-china,Mukden,,,China,mukden,Shenyang,沈阳,Liaoning,辽宁,,1948-03-31,1948-03-31,1950-12-21,,,,,,,,B10-F13,1,35.0,1,0
+nanchang,Nanchang,,,China,nanchang,Nanchang,南昌,Jiangxi,江西,,1948-03-29,1948-03-29,1950-12-21,,,,,,,,B10-F14,1,,0,0
+nanking,Nanking,,,China,nanking,Nanjing,南京,Jiangsu,江苏,,1934-01-19,1934-01-19; 1946-12-24,1943-12-31; 1952-01-24,,,,,,,,"B10-F15, B11-F01",2,196.0,2,0
+ningpo,Ningpo,,,China,ningpo,Ningbo,宁波,Zhejiang,浙江,,1936-09-02,1936-09-02; 1946-10-21,1943-12-31; 1950-12-21,,,,,,,,"B11-F02, B11-F03",2,,0,0
+peking,Peking,,,China,peking,Beijing,北京,Beijing (municipality),北京市,,1924-08-30,1924-08-30; 1946-08-14,1943-12-31; 1951-06-26,,,,,,,,"B11-F04, B11-F05",2,315.0,2,0
+shanghai,Shanghai,,,China,shanghai,Shanghai,上海,Shanghai (municipality),上海市,,1919-10-01,1919-10-01; 1946-03-27,1943-12-31; 1951-10-16,,,,,,,,"B11-F06, B11-F07, B11-F08, B12-F01, B12-F02, B12-F03, B12-F04, B13-F01, B13-F02, B13-F03",10,,0,0
+shanghai-west,Shanghai West,,,China,shanghai,Shanghai,上海,Shanghai (municipality),上海市,,1948-11-16,1948-11-16,1952-01-24,,,,,,,,B13-F04,1,,0,0
+sian,Sian,,,China,sian,Xi'an,西安,Shaanxi,陕西,,1937-08-30,1937-08-30,1950-12-21,,,,,,,,B13-F05,1,,0,0
+soochow,Soochow,,,China,soochow,Suzhou,苏州,Jiangsu,江苏,,1936-11-11,1936-11-11; 1947-02-26,1943-12-31; 1950-12-21,,,,,,,,"B13-F06, B13-F07",2,,0,0
+swatow,Swatow,,,China,swatow,Shantou,汕头,Guangdong,广东,,1936-05-21,1936-05-21; 1947-11-07,1943-12-31; 1950-12-21,,,,,,,,"B14-F01, B14-F02",2,,0,0
+tientsin,Tientsin,,,China,tientsin,Tianjin,天津,Tianjin (municipality),天津市,,1923-05-10,1923-05-10; 1946-09-17,1943-12-31; 1952-01-24,,,,,,,,"B14-F03, B14-F04, B14-F05, B15-F01, B15-F02",5,1655.0,5,0
+tsinan,Tsinan,,,China,tsinan,Jinan,济南,Shandong,山东,,1932-12-09,1932-12-09; 1947-05-14,1943-12-31; 1950-12-21,,,,,,,,"B15-F03, B15-F04",2,,0,0
+tsingtao,Tsingtao,,,China,tsingtao,Qingdao,青岛,Shandong,山东,,1932-09-09,1932-09-09; 1946-12-27,1943-12-31; 1950-12-21,,,,,,,,"B15-F05, B15-F06",2,,0,0
+wuchow,Wuchow,,,China,wuchow,Wuzhou,梧州,Guangxi,广西,,1936-05-22,1936-05-22,1950-12-21,,,,,,,,B16-F01,1,,0,0
+wuchang,Wuchang,,,China,wuchang,Wuhan (Wuchang),武汉（武昌）,Hubei,湖北,,1937-03-08,1937-03-08,1943-12-31,,,,,,,,B16-F02,1,,0,0
+wuhu,Wuhu,,,China,wuhu,Wuhu,芜湖,Anhui,安徽,,1936-02-06,1936-02-06,1943-12-31,,,,,,,,B16-F03,1,,0,0
+wusih,Wusih,,,China,wusih,Wuxi,无锡,Jiangsu,江苏,,1937-06-16,1937-06-16; 1947-04-08,1943-12-31; 1950-12-21,,,,,,,,"B16-F04, B16-F05",2,,0,0
+dairen,Dairen,,,Manchuria,dairen,Dalian,大连,Liaoning,辽宁,,1929-01-21,1929-01-21,1940-12-31,,,,,,,,B36-F04,1,259.0,1,0
+harbin,Harbin,,3334,Manchuria,harbin,Harbin,哈尔滨,Heilongjiang,黑龙江,1930-04-24,1930-06-04,1930-06-04,1940-12-31,Thursday,1pm,Nichiman Club,,,,,"B36-F05, B37-F01",2,436.0,2,1
+hsinking,Hsinking,,,Manchuria,hsinking,Changchun,长春,Jilin,吉林,,1935-01-11,1935-01-11,1940-12-31,,,,,,,,B37-F02,1,166.0,1,0
+mukden-manchuria,Mukden,,,Manchuria,mukden,Shenyang,沈阳,Liaoning,辽宁,,1929-04-11,1929-04-11,1940-12-31,,,,,,,,B37-F03,1,291.0,1,0

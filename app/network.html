@@ -1,0 +1,132 @@
+<!doctype html>
+<meta charset="utf-8">
+<style>
+  :root { --surface:#fcfcfb; --ink:#0b0b0b; --ink2:#52514e; --muted:#898781; --edge:#c3c2b7; --tip:#ffffff; --tipborder:#e1e0d9; }
+  @media (prefers-color-scheme: dark) { :root { --surface:#1a1a19; --ink:#f0efec; --ink2:#c3c2b7; --muted:#898781; --edge:#4a4a46; --tip:#262624; --tipborder:#383835; } }
+  html, body { margin:0; background:var(--surface); font:13px system-ui, -apple-system, "Segoe UI", sans-serif; color:var(--ink); }
+  #legend { display:flex; gap:18px; padding:6px 4px 8px; color:var(--ink2); }
+  #legend span.dot { display:inline-block; width:10px; height:10px; border-radius:50%; margin-right:6px; vertical-align:-1px; }
+  #wrap { position:relative; }
+  canvas { display:block; width:100%; height:620px; cursor:grab; }
+  #tip { position:absolute; pointer-events:none; display:none; background:var(--tip); border:1px solid var(--tipborder); border-radius:6px;
+         padding:6px 9px; max-width:320px; box-shadow:0 2px 8px rgba(0,0,0,.12); line-height:1.35; }
+  #tip b { font-weight:600; } #tip small { color:var(--ink2); }
+</style>
+<div id="legend"></div>
+<div id="wrap"><canvas id="c"></canvas><div id="tip"></div></div>
+<script>
+const DATA = /*DATA*/;
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
+const dark = matchMedia("(prefers-color-scheme: dark)").matches;
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const palette = DATA.colors[dark ? "dark" : "light"];
+const colorOf = t => palette[DATA.order.indexOf(t)] || css("--muted");   // colour follows the type, not its rank among those shown
+
+document.getElementById("legend").innerHTML = DATA.types.map(t =>
+  `<span><span class="dot" style="background:${colorOf(t)}"></span>${t[0].toUpperCase() + t.slice(1)}s</span>`).join("")
+  + `<span style="margin-left:auto;color:var(--muted)">size = number of links</span>`;
+
+const cv = document.getElementById("c"), ctx = cv.getContext("2d"), tip = document.getElementById("tip");
+let W, H, dpr = window.devicePixelRatio || 1;
+function resize() { W = cv.clientWidth || 1000; H = cv.clientHeight || 620; cv.width = W * dpr; cv.height = H * dpr; }
+resize();
+
+const nodes = DATA.nodes.map((n, i) => ({...n, x: 0, y: 0, vx: 0, vy: 0, r: 4 + 1.6 * Math.sqrt(n.deg)}));
+function seed() {   // start on a spiral around the centre of the canvas as it is actually sized
+  nodes.forEach((n, i) => { n.x = W / 2 + Math.cos(i * 2.4) * (30 + 11 * Math.sqrt(i)); n.y = H / 2 + Math.sin(i * 2.4) * (30 + 11 * Math.sqrt(i)); n.vx = n.vy = 0; });
+}
+const byId = Object.fromEntries(nodes.map(n => [n.id, n]));
+const links = DATA.links.map(l => ({...l, s: byId[l.source], t: byId[l.target]})).filter(l => l.s && l.t);
+const nbr = {}; nodes.forEach(n => nbr[n.id] = new Set());
+links.forEach(l => { nbr[l.s.id].add(l.t.id); nbr[l.t.id].add(l.s.id); });
+const maxW = Math.max(1, ...links.map(l => l.weight || 1));
+
+// a small force layout: points repel, links pull, everything drifts gently to the centre
+let alpha = 1, view = {k: 1, x: 0, y: 0}, hover = null, drag = null, pan = null;
+function tick() {
+  const k = Math.sqrt(W * H / Math.max(nodes.length, 1)) * 0.95;
+  for (let i = 0; i < nodes.length; i++) for (let j = i + 1; j < nodes.length; j++) {
+    const a = nodes[i], b = nodes[j]; let dx = a.x - b.x, dy = a.y - b.y, d2 = dx * dx + dy * dy || 0.01;
+    if (d2 > 90000) continue;
+    const f = k * k / d2 * 0.11 * alpha; dx *= f; dy *= f; a.vx += dx; a.vy += dy; b.vx -= dx; b.vy -= dy;
+  }
+  for (const l of links) {
+    const dx = l.t.x - l.s.x, dy = l.t.y - l.s.y, d = Math.sqrt(dx * dx + dy * dy) || 0.01;
+    const f = (d - k * 0.9) / d * 0.035 * alpha * (0.5 + 0.5 * (l.weight || 1) / maxW) / Math.sqrt(1 + Math.min(l.s.deg, l.t.deg) / 6);
+    l.s.vx += dx * f; l.s.vy += dy * f; l.t.vx -= dx * f; l.t.vy -= dy * f;
+  }
+  for (const n of nodes) {
+    n.vx += (W / 2 - n.x) * 0.012 * alpha; n.vy += (H / 2 - n.y) * 0.012 * alpha;
+    if (n !== drag) { n.x += n.vx; n.y += n.vy; }
+    n.vx *= 0.78; n.vy *= 0.78;
+  }
+  alpha *= 0.985;
+}
+function draw() {
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0); ctx.clearRect(0, 0, W, H);
+  ctx.translate(view.x, view.y); ctx.scale(view.k, view.k);
+  const lit = hover ? new Set([hover.id, ...nbr[hover.id]]) : null;
+  for (const l of links) {
+    const on = !lit || (lit.has(l.s.id) && lit.has(l.t.id) && (l.s === hover || l.t === hover));
+    ctx.globalAlpha = on ? (lit ? 0.9 : 0.38) : 0.06; ctx.strokeStyle = css("--edge"); ctx.lineWidth = (0.8 + 2.2 * (l.weight || 1) / maxW) / Math.sqrt(view.k);
+    ctx.beginPath(); ctx.moveTo(l.s.x, l.s.y); ctx.lineTo(l.t.x, l.t.y); ctx.stroke();
+  }
+  // few points: label all; many: label the dozen best connected, the rest on hover
+  const labelMin = nodes.length > 25 ? [...nodes].sort((a, b) => b.deg - a.deg)[Math.min(nodes.length - 1, 17)].deg : 0;
+  const zr = 1 / Math.pow(view.k, 0.75);   // points shrink less than the layout when zoomed out, so they stay visible
+  for (const n of nodes) {
+    const on = !lit || lit.has(n.id); ctx.globalAlpha = on ? 1 : 0.15;
+    n.rr = Math.max(n.r * zr, 4 / view.k);
+    ctx.beginPath(); ctx.arc(n.x, n.y, n.rr + 2 / view.k, 0, 6.2832); ctx.fillStyle = css("--surface"); ctx.fill();   // surface ring
+    ctx.beginPath(); ctx.arc(n.x, n.y, n.rr, 0, 6.2832); ctx.fillStyle = colorOf(n.type); ctx.fill();
+    if (n.focus) { ctx.lineWidth = 2; ctx.strokeStyle = css("--ink"); ctx.stroke(); }
+  }
+  ctx.font = `${12 / view.k}px system-ui, sans-serif`; ctx.textBaseline = "middle";
+  // labels: best connected first; a label that would cover one already drawn is left to the hover tooltip
+  const boxes = [], h = 15 / view.k;
+  for (const n of [...nodes].sort((a, b) => (b === hover) - (a === hover) || b.focus - a.focus || b.deg - a.deg)) {
+    const wanted = lit ? lit.has(n.id) : (n.focus || n.deg >= labelMin);
+    if (!wanted) continue;
+    const tx = n.x + n.rr + 4 / view.k, w = ctx.measureText(n.label).width, box = [tx, n.y - h / 2, tx + w, n.y + h / 2];
+    if (n !== hover && boxes.some(o => box[0] < o[2] && box[2] > o[0] && box[1] < o[3] && box[3] > o[1])) continue;
+    boxes.push(box);
+    ctx.globalAlpha = 1; ctx.lineWidth = 3 / view.k; ctx.strokeStyle = css("--surface"); ctx.fillStyle = css("--ink");   // text in ink, never in the series colour
+    ctx.strokeText(n.label, tx, n.y); ctx.fillText(n.label, tx, n.y);
+  }
+  ctx.globalAlpha = 1;
+}
+function loop() { if (alpha > 0.02 || drag) { tick(); if (!touched) fit(); draw(); } requestAnimationFrame(loop); }
+let touched = false;
+function fit() {   // zoom and centre so that every point (and room for its label) is inside the frame
+  const xs = nodes.map(n => n.x), ys = nodes.map(n => n.y);
+  const x0 = Math.min(...xs) - 30, x1 = Math.max(...xs) + 150, y0 = Math.min(...ys) - 30, y1 = Math.max(...ys) + 30;
+  const k = Math.min(1.6, W / (x1 - x0), H / (y1 - y0));
+  view = {k, x: (W - (x0 + x1) * k) / 2, y: (H - (y0 + y1) * k) / 2};
+}
+function start() { resize(); seed(); alpha = 1; touched = false; for (let i = 0; i < 260; i++) tick(); fit(); draw(); }
+start(); loop();
+// the frame may get its real size only after the script has run: lay out again when the size changes
+let lastW = W;
+new ResizeObserver(() => { const w = cv.clientWidth; if (w && Math.abs(w - lastW) > 40) { lastW = w; start(); } else { resize(); draw(); } }).observe(cv);
+
+const pos = e => { const r = cv.getBoundingClientRect(); return {x: (e.clientX - r.left - view.x) / view.k, y: (e.clientY - r.top - view.y) / view.k, sx: e.clientX - r.left, sy: e.clientY - r.top}; };
+const pick = p => { let best = null, bd = 1e9; for (const n of nodes) { const d = Math.hypot(n.x - p.x, n.y - p.y) - (n.rr || n.r); if (d < 6 / view.k && d < bd) { bd = d; best = n; } } return best; };
+cv.addEventListener("mousedown", e => { touched = true; const p = pos(e), n = pick(p); if (n) { drag = n; alpha = Math.max(alpha, 0.3); } else pan = {x: e.clientX - view.x, y: e.clientY - view.y}; cv.style.cursor = "grabbing"; });
+addEventListener("mouseup", () => { drag = null; pan = null; cv.style.cursor = "grab"; });
+cv.addEventListener("mousemove", e => {
+  const p = pos(e);
+  if (drag) { drag.x = p.x; drag.y = p.y; alpha = Math.max(alpha, 0.2); return; }
+  if (pan) { view.x = e.clientX - pan.x; view.y = e.clientY - pan.y; draw(); return; }
+  const n = pick(p);
+  if (n !== hover) { hover = n; draw(); }
+  if (n) {
+    const via = links.filter(l => l.s === n || l.t === n).sort((a, b) => (b.weight || 1) - (a.weight || 1)).slice(0, 5)
+      .map(l => `${esc((l.s === n ? l.t : l.s).label)}${l.via ? ` <small>(${esc(l.via)})</small>` : ""}`).join("<br>");
+    tip.innerHTML = `<b>${esc(n.label)}</b><br><small>${n.type} · ${n.deg} link${n.deg > 1 ? "s" : ""}</small><br>${via}${n.deg > 5 ? "<br><small>…</small>" : ""}`;
+    tip.style.display = "block"; tip.style.left = Math.min(p.sx + 14, W - 330) + "px"; tip.style.top = (p.sy + 14) + "px";
+  } else tip.style.display = "none";
+});
+cv.addEventListener("mouseleave", () => { hover = null; tip.style.display = "none"; draw(); });
+cv.addEventListener("wheel", e => { e.preventDefault(); touched = true; const r = cv.getBoundingClientRect(), mx = e.clientX - r.left, my = e.clientY - r.top, f = e.deltaY < 0 ? 1.12 : 0.89;
+  const k = Math.min(6, Math.max(0.25, view.k * f)); view.x = mx - (mx - view.x) * k / view.k; view.y = my - (my - view.y) * k / view.k; view.k = k; draw(); }, {passive: false});
+</script>

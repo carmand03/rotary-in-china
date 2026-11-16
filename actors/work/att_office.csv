@@ -1,0 +1,382 @@
+﻿att_id,club,input_file,input_sheet,input_row,surname,given,vernacular_name,position,body,election_date,date_start,date_end,address,classification,source_refs
+OFF-Harbin-officers-2,Harbin,Harbin.xlsx,officers,2,Kowasaki,Torao,剛崎虎雄,President,Officers,,1930,1931,,,"B36-F05-02, B37-F01-03"
+OFF-Harbin-officers-3,Harbin,Harbin.xlsx,officers,3,Gundsi,Yoshio,軍司義男,Vice-President,Officers,,1930,1931,,,B36-F05-02
+OFF-Harbin-officers-4,Harbin,Harbin.xlsx,officers,4,Ishihara,Shigetaka,,Secretary,Officers,,1930,1931,,,B36-F05-02
+OFF-Harbin-officers-5,Harbin,Harbin.xlsx,officers,5,Fujimaki,Naoki,,Treasurer,Officers,,1930,1931,,,B36-F05-02
+OFF-Harbin-officers-6,Harbin,Harbin.xlsx,officers,6,Kowazaki,Torao,,President,Officers,,1930-04,,,Express Service,B36-F05-12
+OFF-Harbin-officers-7,Harbin,Harbin.xlsx,officers,7,Gundsi,Yoshio,,Vice President,Officers,,1930-04,,,,B36-F05-12
+OFF-Harbin-officers-8,Harbin,Harbin.xlsx,officers,8,Ishihara,Shigetaka,,Secretary,Officers,,1930-04,,,Soya Bean Inspecting,B36-F05-12
+OFF-Harbin-officers-9,Harbin,Harbin.xlsx,officers,9,Fujimaki,Naoki,,Treasurer,Officers,,1930-04,,,,B36-F05-12
+OFF-Harbin-officers-10,Harbin,Harbin.xlsx,officers,10,Sasaki,Kyumatsu,,Sergeant-At-Arms,Officers,,1930-04,,,,B36-F05-12
+OFF-Harbin-officers-11,Harbin,Harbin.xlsx,officers,11,Kowazaki,Torao,,Director,Board of Directors,,1930-04,,,,B36-F05-12
+OFF-Harbin-officers-12,Harbin,Harbin.xlsx,officers,12,Gundsi,Yoshio,,Director,Board of Directors,,1930-04,,,,B36-F05-12
+OFF-Harbin-officers-13,Harbin,Harbin.xlsx,officers,13,Ishihara,Shigetaka,,Director,Board of Directors,,1930-04,,,,B36-F05-12
+OFF-Harbin-officers-14,Harbin,Harbin.xlsx,officers,14,Fujimaki,Naoki,,Director,Board of Directors,,1930-04,,,,B36-F05-12
+OFF-Harbin-officers-15,Harbin,Harbin.xlsx,officers,15,Yagi,Motohachi,,Director,Board of Directors,,1930-04,,,,B36-F05-12
+OFF-Harbin-officers-16,Harbin,Harbin.xlsx,officers,16,Tsukishima,Shinji,,Director,Board of Directors,,1930-04,,,,B36-F05-12
+OFF-Harbin-officers-17,Harbin,Harbin.xlsx,officers,17,Takahashi,Kan-ichi,,Director,Board of Directors,,1930-04,,,,B36-F05-12
+OFF-Harbin-officers-18,Harbin,Harbin.xlsx,officers,18,Gundsi,Y.,,Vice-president,Officers,,1930,1931,,,B36-F05-236
+OFF-Harbin-officers-19,Harbin,Harbin.xlsx,officers,19,Hakozaki,B.,,Chairman,International Service Committee,,1930,1931,,,B36-F05-236
+OFF-Harbin-officers-20,Harbin,Harbin.xlsx,officers,20,Hakozaki,B.,,Member,Aims and Object Committee,,1930,1931,,,B36-F05-236
+OFF-Harbin-officers-21,Harbin,Harbin.xlsx,officers,21,Kowazaki,T.,,President,Club,,1930,1931,,,B36-F05-237
+OFF-Harbin-officers-22,Harbin,Harbin.xlsx,officers,22,Kowazaki,T.,,Chairman,Aims and Object Committee,,1930,1931,,,B36-F05-237
+OFF-Harbin-officers-23,Harbin,Harbin.xlsx,officers,23,Maeda,T.,,Member,Community Service Committee,,1930,1931,,,B36-F05-237
+OFF-Harbin-officers-24,Harbin,Harbin.xlsx,officers,24,Takahashi,K.,,Director,Club,,1930,1931,,,B36-F05-238
+OFF-Harbin-officers-25,Harbin,Harbin.xlsx,officers,25,Takata,T.,,Chairman,Vocational Service Committee,,1930,1931,,,B36-F05-238
+OFF-Harbin-officers-26,Harbin,Harbin.xlsx,officers,26,Gundsi,Yoshio,軍司義男,President,Officers,,1931,1932,,,B37-F01-03
+OFF-Harbin-officers-27,Harbin,Harbin.xlsx,officers,27,Baitelin,N. S.,,Director,Board of Directors,1930-10-28,1931,1932,,,B36-F05-236
+OFF-Harbin-officers-28,Harbin,Harbin.xlsx,officers,28,Baitelin,N. S.,,Chairman,International Service Committee,1930-10-28,1931,1932,,,B36-F05-236
+OFF-Harbin-officers-29,Harbin,Harbin.xlsx,officers,29,Baitelin,N. S.,,Member,Aims and Object Committee,1930-10-28,1931,1932,,,B36-F05-236
+OFF-Harbin-officers-30,Harbin,Harbin.xlsx,officers,30,Baitelin,N. S.,,Member,Membership Committee,1930-10-28,1931,1932,,,B36-F05-236
+OFF-Harbin-officers-31,Harbin,Harbin.xlsx,officers,31,Baitelin,N. S.,,Member,Editorial Committee,1930-10-28,1931,1932,,,B36-F05-236
+OFF-Harbin-officers-32,Harbin,Harbin.xlsx,officers,32,Gundsi,Y.,,President,Officers,,1931,1932,,,B36-F05-236
+OFF-Harbin-officers-33,Harbin,Harbin.xlsx,officers,33,Gundsi,Y.,,Chairman,Aims and Object Committee,,1931,1932,,,B36-F05-236
+OFF-Harbin-officers-34,Harbin,Harbin.xlsx,officers,34,Haag,H. L.,,Chairman,Public Information Committee,1931-08-25,1931,1932,,,B36-F05-236
+OFF-Harbin-officers-35,Harbin,Harbin.xlsx,officers,35,Haag,H. L.,,Member,Club Service Committee,1931-08-25,1931,1932,,,B36-F05-236
+OFF-Harbin-officers-36,Harbin,Harbin.xlsx,officers,36,Haag,H. L.,,Member,Community Service Committee,1931-08-25,1931,1932,,,B36-F05-236
+OFF-Harbin-officers-37,Harbin,Harbin.xlsx,officers,37,Haag,H. L.,,Member,Classification Committee,1931-08-25,1931,1932,,,B36-F05-236
+OFF-Harbin-officers-38,Harbin,Harbin.xlsx,officers,38,Hakozaki,B.,,Honorary Treasurer,Officers,,1931,1932,,,B36-F05-236
+OFF-Harbin-officers-39,Harbin,Harbin.xlsx,officers,39,Hasegawa,Y.,,Member,Program Committee,1931-06-01,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-40,Harbin,Harbin.xlsx,officers,40,Hassek,A. E.,,Member,Classification Committee,1931-05-05,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-41,Harbin,Harbin.xlsx,officers,41,Hirayama,R.,,Member,Vocational Service Committee,1931-01-13,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-42,Harbin,Harbin.xlsx,officers,42,Hirayama,R.,,Member,Classification Committee,1931-01-13,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-43,Harbin,Harbin.xlsx,officers,43,Janushowsky,R. J.,,Member,International Service Committee,1931-05-05,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-44,Harbin,Harbin.xlsx,officers,44,Janushowsky,R. J.,,Member,Program Committee,1931-05-05,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-45,Harbin,Harbin.xlsx,officers,45,Kato,A.,,Chairman,Fellowship Committee,1930-09-02,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-46,Harbin,Harbin.xlsx,officers,46,Kato,A.,,Member,Club Service Committee,1930-09-02,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-47,Harbin,Harbin.xlsx,officers,47,Kato,A.,,Member,Membership Committee,1930-09-02,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-48,Harbin,Harbin.xlsx,officers,48,Kawasumi,T.,,S. at Arms,Club,1931-05-05,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-49,Harbin,Harbin.xlsx,officers,49,Kawasumi,T.,,Chairman,Program Committee,1931-05-05,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-50,Harbin,Harbin.xlsx,officers,50,Kawasumi,T.,,Chairman,Editorial Committee,1931-05-05,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-51,Harbin,Harbin.xlsx,officers,51,Kawasumi,T.,,Member,Club Service Committee,1931-05-05,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-52,Harbin,Harbin.xlsx,officers,52,Kowazaki,T.,,Director,Club,,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-53,Harbin,Harbin.xlsx,officers,53,Kowazaki,T.,,Chairman,Vocational Service Committee,,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-54,Harbin,Harbin.xlsx,officers,54,Kowazaki,T.,,Member,Aims and Object Committee,,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-55,Harbin,Harbin.xlsx,officers,55,Lange,H.,,Member,Membership Committee,1931-05-12,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-56,Harbin,Harbin.xlsx,officers,56,Maeda,T.,,Member,Fellowship Committee,,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-57,Harbin,Harbin.xlsx,officers,57,Minsky,V. N.,,Member,Vocational Service Committee,1931-02-03,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-58,Harbin,Harbin.xlsx,officers,58,Minsky,V. N.,,Member,Fellowship Committee,1931-02-03,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-59,Harbin,Harbin.xlsx,officers,59,Mizukami,T.,,Member,International Service Committee,1930-12-16,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-60,Harbin,Harbin.xlsx,officers,60,Oka,S.,,Member,Membership Committee,1930-12-16,1931,1932,,,B36-F05-237
+OFF-Harbin-officers-61,Harbin,Harbin.xlsx,officers,61,Oksakowsky,T. E.,,Member,Fellowship Committee,1931-05-19,1931,1932,,,B36-F05-238
+OFF-Harbin-officers-62,Harbin,Harbin.xlsx,officers,62,Oksakowsky,T. E.,,Member,Public Information Committee,1931-05-19,1931,1932,,,B36-F05-238
+OFF-Harbin-officers-63,Harbin,Harbin.xlsx,officers,63,Onoe,T.,,Member,Community Service Committee,1931-07-28,1931,1932,,,B36-F05-238
+OFF-Harbin-officers-64,Harbin,Harbin.xlsx,officers,64,Takahashi,K.,,Chairman,Community Service Committee,,1931,1932,,,B36-F05-238
+OFF-Harbin-officers-65,Harbin,Harbin.xlsx,officers,65,Takahata,S.,,Chairman,Membership Committee,1930-10-07,1931,1932,,,B36-F05-238
+OFF-Harbin-officers-66,Harbin,Harbin.xlsx,officers,66,Takahata,S.,,Member,Club Service Committee,1930-10-07,1931,1932,,,B36-F05-238
+OFF-Harbin-officers-67,Harbin,Harbin.xlsx,officers,67,Takata,T.,,Vice-president,Club,,1931,1932,,,B36-F05-238
+OFF-Harbin-officers-68,Harbin,Harbin.xlsx,officers,68,Takata,T.,,Chairman,Club Service Committee,,1931,1932,,,B36-F05-238
+OFF-Harbin-officers-69,Harbin,Harbin.xlsx,officers,69,Takata,T.,,Member,Aims and Object Committee,,1931,1932,,,B36-F05-238
+OFF-Harbin-officers-70,Harbin,Harbin.xlsx,officers,70,Takata,T.,高田富藏,President,Officers,,1932,1933,,,B37-F01-03
+OFF-Harbin-officers-71,Harbin,Harbin.xlsx,officers,71,Gundsi,Y.,,President,Officers,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-72,Harbin,Harbin.xlsx,officers,72,Takata,T.,,Vice-President,Officers,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-73,Harbin,Harbin.xlsx,officers,73,Fujita,Y.,,Secretary,Officers,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-74,Harbin,Harbin.xlsx,officers,74,Hakozaki,B.,,Treasurer,Officers,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-75,Harbin,Harbin.xlsx,officers,75,Kawasumi,T.,,Sergeant-At-Arms,Officers,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-76,Harbin,Harbin.xlsx,officers,76,Kowazaki,T.,,Past-President,Officers,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-77,Harbin,Harbin.xlsx,officers,77,Gundsi,Y.,,Director,Board of Directors,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-78,Harbin,Harbin.xlsx,officers,78,Takata,T.,,Director,Board of Directors,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-79,Harbin,Harbin.xlsx,officers,79,Fujita,Y.,,Director,Board of Directors,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-80,Harbin,Harbin.xlsx,officers,80,Hakozaki,B.,,Director,Board of Directors,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-81,Harbin,Harbin.xlsx,officers,81,Kawasumi,T.,,Director,Board of Directors,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-82,Harbin,Harbin.xlsx,officers,82,Kowazaki,T.,,Director,Board of Directors,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-83,Harbin,Harbin.xlsx,officers,83,Baitelin,Nicolas S.,,Director,Board of Directors,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-84,Harbin,Harbin.xlsx,officers,84,Gundsi,Y.,,Chairman,Aims & Object Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-85,Harbin,Harbin.xlsx,officers,85,Fujita,Y.,,Member,Aims & Object Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-86,Harbin,Harbin.xlsx,officers,86,Takata,T.,,Member,Aims & Object Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-87,Harbin,Harbin.xlsx,officers,87,Kowazaki,T.,,Member,Aims & Object Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-88,Harbin,Harbin.xlsx,officers,88,Takahashi,K.,,Member,Aims & Object Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-89,Harbin,Harbin.xlsx,officers,89,Baitelin,Nicolas S.,,Member,Aims & Object Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-90,Harbin,Harbin.xlsx,officers,90,Takata,T.,,Chairman,Club Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-91,Harbin,Harbin.xlsx,officers,91,Fujita,Y.,,Member,Club Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-92,Harbin,Harbin.xlsx,officers,92,Takahata,S.,,Member,Club Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-93,Harbin,Harbin.xlsx,officers,93,Kawasumi,T.,,Member,Club Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-94,Harbin,Harbin.xlsx,officers,94,Kato,A.,,Member,Club Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-95,Harbin,Harbin.xlsx,officers,95,Haag,H.,,Member,Club Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-96,Harbin,Harbin.xlsx,officers,96,Kowazaki,T.,,Chairman,Vocational Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-97,Harbin,Harbin.xlsx,officers,97,Minsky,Y.,,Member,Vocational Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-98,Harbin,Harbin.xlsx,officers,98,Hirayama,R.,,Member,Vocational Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-99,Harbin,Harbin.xlsx,officers,99,Takahashi,K.,,Chairman,Community Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-100,Harbin,Harbin.xlsx,officers,100,Haag,H.,,Member,Community Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-101,Harbin,Harbin.xlsx,officers,101,Onoe,T.,,Member,Community Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-102,Harbin,Harbin.xlsx,officers,102,Baitelin,Nicolas S.,,Chairman,International Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-103,Harbin,Harbin.xlsx,officers,103,Fujita,Y.,,Member,International Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-104,Harbin,Harbin.xlsx,officers,104,Mizukami,T.,,Member,International Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-105,Harbin,Harbin.xlsx,officers,105,Janushowsky,R.,,Member,International Service Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-106,Harbin,Harbin.xlsx,officers,106,Fujita,Y.,,Chairman,Classification Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-107,Harbin,Harbin.xlsx,officers,107,Haag,H.,,Member,Classification Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-108,Harbin,Harbin.xlsx,officers,108,Hassek,A.,,Member,Classification Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-109,Harbin,Harbin.xlsx,officers,109,Hirayama,R.,,Member,Classification Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-110,Harbin,Harbin.xlsx,officers,110,Takahata,S.,,Chairman,Membership Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-111,Harbin,Harbin.xlsx,officers,111,Baitelin,Nicolas S.,,Member,Membership Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-112,Harbin,Harbin.xlsx,officers,112,Kato,A.,,Member,Membership Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-113,Harbin,Harbin.xlsx,officers,113,Lange,H.,,Member,Membership Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-114,Harbin,Harbin.xlsx,officers,114,Oka,S.,,Member,Membership Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-115,Harbin,Harbin.xlsx,officers,115,Kawasumi,T.,,Chairman,Program Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-116,Harbin,Harbin.xlsx,officers,116,Janushowsky,R.,,Member,Program Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-117,Harbin,Harbin.xlsx,officers,117,Hasegawa,Y.,,Member,Program Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-118,Harbin,Harbin.xlsx,officers,118,Kato,A.,,Chairman,Fellowship Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-119,Harbin,Harbin.xlsx,officers,119,Minsky,Y.,,Member,Fellowship Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-120,Harbin,Harbin.xlsx,officers,120,Maeda,T.,,Member,Fellowship Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-121,Harbin,Harbin.xlsx,officers,121,Oksakowsky,T.,,Member,Fellowship Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-122,Harbin,Harbin.xlsx,officers,122,Haag,H.,,Chairman,Public Information Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-123,Harbin,Harbin.xlsx,officers,123,Oksakowsky,T.,,Member,Public Information Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-124,Harbin,Harbin.xlsx,officers,124,Ohashi,C.,,Member,Public Information Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-125,Harbin,Harbin.xlsx,officers,125,Kawasumi,T.,,Member,Editorial Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-126,Harbin,Harbin.xlsx,officers,126,Baitelin,Nicolas S.,,Member,Editorial Committee,,1932-03,,,,B36-F05-185
+OFF-Harbin-officers-127,Harbin,Harbin.xlsx,officers,127,Takata,T.,,President,Officers,,1932-11,,,,B36-F05-223
+OFF-Harbin-officers-128,Harbin,Harbin.xlsx,officers,128,Baitelin,N. S.,,Vice-President,Officers,,1932-11,,,,B36-F05-223
+OFF-Harbin-officers-129,Harbin,Harbin.xlsx,officers,129,Kawasumi,T.,,Secretary,Officers,,1932-11,,,,B36-F05-223
+OFF-Harbin-officers-130,Harbin,Harbin.xlsx,officers,130,Onoe,T.,,Treasurer,Officers,,1932-11,,,,B36-F05-223
+OFF-Harbin-officers-131,Harbin,Harbin.xlsx,officers,131,Oksakowsky,T. E.,,Sergeant at Arms,Officers,,1932-11,,,,B36-F05-223
+OFF-Harbin-officers-132,Harbin,Harbin.xlsx,officers,132,Takata,T.,,Director,Board of Directors,,1932-11,,,,B36-F05-223
+OFF-Harbin-officers-133,Harbin,Harbin.xlsx,officers,133,Baitelin,N. S.,,Director,Board of Directors,,1932-11,,,,B36-F05-223
+OFF-Harbin-officers-134,Harbin,Harbin.xlsx,officers,134,Kawasumi,T.,,Director,Board of Directors,,1932-11,,,,B36-F05-223
+OFF-Harbin-officers-135,Harbin,Harbin.xlsx,officers,135,Onoe,T.,,Director,Board of Directors,,1932-11,,,,B36-F05-223
+OFF-Harbin-officers-136,Harbin,Harbin.xlsx,officers,136,Gundsi,Y.,,Director,Board of Directors,,1932-11,,,,B36-F05-223
+OFF-Harbin-officers-137,Harbin,Harbin.xlsx,officers,137,Haag,H. L.,,Director,Board of Directors,,1932-11,,,,B36-F05-223
+OFF-Harbin-officers-138,Harbin,Harbin.xlsx,officers,138,Minsky,V. N.,,Director,Board of Directors,,1932-11,,,,B36-F05-223
+OFF-Harbin-officers-139,Harbin,Harbin.xlsx,officers,139,Adachi,T.,,Chairman,Public Information Committee,1931-09-08,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-140,Harbin,Harbin.xlsx,officers,140,Adachi,T.,,Member,Club Service Committee,1931-09-08,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-141,Harbin,Harbin.xlsx,officers,141,Baitelin,N. S.,,Vice-president,Officers,1930-10-28,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-142,Harbin,Harbin.xlsx,officers,142,Baitelin,N. S.,,Chairman,Club Service Committee,1930-10-28,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-143,Harbin,Harbin.xlsx,officers,143,Baitelin,N. S.,,Member,Aims and Object Committee,1930-10-28,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-144,Harbin,Harbin.xlsx,officers,144,Baitelin,N. S.,,Member,Membership Committee,1930-10-28,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-145,Harbin,Harbin.xlsx,officers,145,Baitelin,N. S.,,Member,Editorial Committee,1930-10-28,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-146,Harbin,Harbin.xlsx,officers,146,Bryner,L.,,Member,Fellowship Committee,1931-09-15,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-147,Harbin,Harbin.xlsx,officers,147,Gundsi,Y.,,Director,Board of Directors,,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-148,Harbin,Harbin.xlsx,officers,148,Gundsi,Y.,,Chairman,International Service Committee,,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-149,Harbin,Harbin.xlsx,officers,149,Gundsi,Y.,,Member,Aims and Object Committee,,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-150,Harbin,Harbin.xlsx,officers,150,Gundsi,Y.,,Member,Membership Committee,,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-151,Harbin,Harbin.xlsx,officers,151,Hakozaki,B.,,Member,International Service Committee,,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-152,Harbin,Harbin.xlsx,officers,152,Hanson,G. C.,,Member,International Service Committee,1932-07-01,1932,1933,,,B36-F05-236
+OFF-Harbin-officers-153,Harbin,Harbin.xlsx,officers,153,Hasegawa,Y.,,Member,Fellowship Committee,1931-06-01,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-154,Harbin,Harbin.xlsx,officers,154,Hirayama,R.,,Member,Vocational Service Committee,1931-01-13,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-155,Harbin,Harbin.xlsx,officers,155,Janushowsky,R. J.,,Member,International Service Committee,1931-05-05,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-156,Harbin,Harbin.xlsx,officers,156,Kato,A.,,Chairman,Membership Committee,1930-09-02,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-157,Harbin,Harbin.xlsx,officers,157,Kato,A.,,Member,Club Service Committee,1930-09-02,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-158,Harbin,Harbin.xlsx,officers,158,Kawasumi,T.,,Secretary,Club,1931-05-05,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-159,Harbin,Harbin.xlsx,officers,159,Kawasumi,T.,,Chairman,Classification Committee,1931-05-05,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-160,Harbin,Harbin.xlsx,officers,160,Kawasumi,T.,,Member,Aims and Object Committee,1931-05-05,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-161,Harbin,Harbin.xlsx,officers,161,Kawasumi,T.,,Member,Club Service Committee,1931-05-05,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-162,Harbin,Harbin.xlsx,officers,162,Kawasumi,T.,,Member,Editorial Committee,1931-05-05,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-163,Harbin,Harbin.xlsx,officers,163,Korelin,A. M.,,Member,Classification Committee,1931-12-15,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-164,Harbin,Harbin.xlsx,officers,164,Korelin,A. M.,,Member,Attendance Committee,1931-12-15,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-165,Harbin,Harbin.xlsx,officers,165,Kowazaki,T.,,Member,Membership Committee,,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-166,Harbin,Harbin.xlsx,officers,166,Lange,H.,,Member,Membership Committee,1931-05-12,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-167,Harbin,Harbin.xlsx,officers,167,Li,Shao-Keng,,Member,Program Committee,1932-07-01,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-168,Harbin,Harbin.xlsx,officers,168,Maeda,T.,,Chairman,Attendance Committee,,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-169,Harbin,Harbin.xlsx,officers,169,Maeda,T.,,Member,Club Service Committee,,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-170,Harbin,Harbin.xlsx,officers,170,Maeda,T.,,Member,Fellowship Committee,,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-171,Harbin,Harbin.xlsx,officers,171,Minsky,V. N.,,Director,Club,1931-02-03,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-172,Harbin,Harbin.xlsx,officers,172,Minsky,V. N.,,Chairman,Program Committee,1931-02-03,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-173,Harbin,Harbin.xlsx,officers,173,Minsky,V. N.,,Member,Club Service Committee,1931-02-03,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-174,Harbin,Harbin.xlsx,officers,174,Mizukami,T.,,Member,International Service Committee,1930-12-16,1932,1933,,,B36-F05-237
+OFF-Harbin-officers-175,Harbin,Harbin.xlsx,officers,175,Oksakowsky,T. E.,,S. at Arms,Club,1931-05-19,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-176,Harbin,Harbin.xlsx,officers,176,Oksakowsky,T. E.,,Chairman,Fellowship Committee,1931-05-19,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-177,Harbin,Harbin.xlsx,officers,177,Oksakowsky,T. E.,,Member,Club Service Committee,1931-05-19,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-178,Harbin,Harbin.xlsx,officers,178,Oksakowsky,T. E.,,Member,Public Information Committee,1931-05-19,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-179,Harbin,Harbin.xlsx,officers,179,Onoe,T.,,Honor. Treasurer,Club,1931-07-28,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-180,Harbin,Harbin.xlsx,officers,180,Onoe,T.,,Member,Community Service Committee,1931-07-28,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-181,Harbin,Harbin.xlsx,officers,181,Onoe,T.,,Member,Program Committee,1931-07-28,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-182,Harbin,Harbin.xlsx,officers,182,Ostroumov,A. S.,,Member,Program Committee,1931-12-29,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-183,Harbin,Harbin.xlsx,officers,183,Ostroumov,A. S.,,Member,Attendance Committee,1931-12-29,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-184,Harbin,Harbin.xlsx,officers,184,Ostroumov,A. S.,,Member,Editorial Committee,1931-12-29,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-185,Harbin,Harbin.xlsx,officers,185,Takahashi,K.,,Member,Community Service Committee,,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-186,Harbin,Harbin.xlsx,officers,186,Takahata,S.,,Chairman,Vocational Service Committee,1930-10-07,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-187,Harbin,Harbin.xlsx,officers,187,Takahata,S.,,Member,Aims and Object Committee,1930-10-07,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-188,Harbin,Harbin.xlsx,officers,188,Takata,T.,,President,Club,,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-189,Harbin,Harbin.xlsx,officers,189,Takata,T.,,Chairman,Aims and Object Committee,,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-190,Harbin,Harbin.xlsx,officers,190,Waters,R. A. S.,,Member,Community Service Committee,1932-07-01,1932,1933,,,B36-F05-238
+OFF-Harbin-officers-191,Harbin,Harbin.xlsx,officers,191,Kanai,K.,金井清,President,Officers,,1933,1935,,,B37-F01-03
+OFF-Harbin-officers-192,Harbin,Harbin.xlsx,officers,192,Gundsi,Yoshio,軍司義男,Correspondence Secretary,Officers,,1936-07,,"South Manchuria Railway Office, 68 Vakzalny Prosp., Harbin",,B37-F01-33
+OFF-Harbin-officers-193,Harbin,Harbin.xlsx,officers,193,Ehara,Koichi,江原綱一,President,Officers,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-194,Harbin,Harbin.xlsx,officers,194,Hassek,A. E.,,Vice-President,Officers,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-195,Harbin,Harbin.xlsx,officers,195,van Custem,A.,,Director,Board of Directors,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-196,Harbin,Harbin.xlsx,officers,196,Ehara,Koichi,江原綱一,Director,Board of Directors,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-197,Harbin,Harbin.xlsx,officers,197,Hassek,A. E.,,Director,Board of Directors,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-198,Harbin,Harbin.xlsx,officers,198,Kawasumi,Tadao,川角忠雄,Director,Board of Directors,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-199,Harbin,Harbin.xlsx,officers,199,Maeda,Toshio,前田利男,Director,Board of Directors,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-200,Harbin,Harbin.xlsx,officers,200,Radwan,W. J.,,Director,Board of Directors,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-201,Harbin,Harbin.xlsx,officers,201,Sahara,Kenji,,Director,Board of Directors,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-202,Harbin,Harbin.xlsx,officers,202,Yen,Chuan-Fu,,Director,Board of Directors,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-203,Harbin,Harbin.xlsx,officers,203,Kawasumi,Tadao,川角忠雄,Secretary,Officers,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-204,Harbin,Harbin.xlsx,officers,204,Maeda,Toshio,前田利男,Treasurer,Officers,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-205,Harbin,Harbin.xlsx,officers,205,Lui,Tai,呂泰,Sergeant-At-Arms,Officers,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-206,Harbin,Harbin.xlsx,officers,206,Gundsi,Yoshio,軍司義男,Correspondence Secretary,Officers,,1936,1937,,,B37-F01-07
+OFF-Harbin-officers-207,Harbin,Harbin.xlsx,officers,207,Kawasumi,Tadao,川角忠雄,Secretary,Officers,,1937-01,,"Nippon Commercial Museum, Harbin",,B37-F01-33
+OFF-Harbin-officers-208,Harbin,Harbin.xlsx,officers,208,Kawamura,Nishiro,,President,Officers,,1937,,Yokohama Specie Bank,Exchange Banking,B37-F01-27
+OFF-Harbin-officers-209,Harbin,Harbin.xlsx,officers,209,Gundsi,Yoshio,軍司義男,Secretary,Officers,,1937,,Harbin Railway Directorate,Economic Investigation,B37-F01-27
+OFF-Harbin-officers-210,Harbin,Harbin.xlsx,officers,210,Gundsi,Yoshio,軍司義男,Secretary,Officers,,1938-01,,"Harbin Railway Directorate, Harbin",,B37-F01-33
+OFF-Harbin-officers-211,Harbin,Harbin.xlsx,officers,211,Gundsi,Yoshio,軍司義男,Secretary,Officers,,1939-01,,"Economic Investigation Bureau, Harbin",,B37-F01-39
+OFF-Harbin-officers-212,Harbin,Harbin.xlsx,officers,212,Gundsi,Yoshio,軍司義男,Secretary,Officers,,1940-01,,"Nichiman Club, 1 Nagorny Prospect",,B37-F01-39
+OFF-Harbin-officers-213,Harbin,Harbin.xlsx,officers,213,Hejny,R.,ヘイニー,Vice-President,Officers,,,1936,,,B37-F01-03
+OFF-Harbin-officers-214,Harbin,Harbin.xlsx,officers,214,Minsky,V.,ミンスキー,Vice-President,Officers,,,1936,,,B37-F01-03
+OFF-Harbin-officers-215,Harbin,Harbin.xlsx,officers,215,Hejny,R.,ヘイニー,Director,Board of Directors,,,1936,,,B37-F01-03
+OFF-Harbin-officers-216,Harbin,Harbin.xlsx,officers,216,Minsky,V.,ミンスキー,Director,Board of Directors,,,1936,,,B37-F01-03
+OFF-Harbin-officers-217,Harbin,Harbin.xlsx,officers,217,Takata,T.,,Chairman,Aims and Object Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-218,Harbin,Harbin.xlsx,officers,218,Kawasumi,T.,,Member,Aims and Object Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-219,Harbin,Harbin.xlsx,officers,219,Baitelin,N.,,Member,Aims and Object Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-220,Harbin,Harbin.xlsx,officers,220,Takahata,S.,,Member,Aims and Object Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-221,Harbin,Harbin.xlsx,officers,221,Haag,H.,,Member,Aims and Object Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-222,Harbin,Harbin.xlsx,officers,222,Gundsi,Y.,,Member,Aims and Object Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-223,Harbin,Harbin.xlsx,officers,223,Baitelin,N.,,Chairman,Club Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-224,Harbin,Harbin.xlsx,officers,224,Kawasumi,T.,,Member,Club Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-225,Harbin,Harbin.xlsx,officers,225,Kato,A.,,Member,Club Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-226,Harbin,Harbin.xlsx,officers,226,Minsky,V.,,Member,Club Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-227,Harbin,Harbin.xlsx,officers,227,Oksakowsky,T.,,Member,Club Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-228,Harbin,Harbin.xlsx,officers,228,Maeda,T.,,Member,Club Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-229,Harbin,Harbin.xlsx,officers,229,Adachi,T.,,Member,Club Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-230,Harbin,Harbin.xlsx,officers,230,Fujita,Y.,,Member,Club Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-231,Harbin,Harbin.xlsx,officers,231,Takahata,S.,,Chairman,Vocational Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-232,Harbin,Harbin.xlsx,officers,232,Hanson,G.,,Member,Vocational Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-233,Harbin,Harbin.xlsx,officers,233,Hirayama,R.,,Member,Vocational Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-234,Harbin,Harbin.xlsx,officers,234,Haag,H.,,Chairman,Community Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-235,Harbin,Harbin.xlsx,officers,235,Waters,R.,,Member,Community Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-236,Harbin,Harbin.xlsx,officers,236,Onoe,T.,,Member,Community Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-237,Harbin,Harbin.xlsx,officers,237,Takahashi,K.,,Member,Community Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-238,Harbin,Harbin.xlsx,officers,238,Gundsi,Y.,,Chairman,International Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-239,Harbin,Harbin.xlsx,officers,239,Mizukami,T.,,Member,International Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-240,Harbin,Harbin.xlsx,officers,240,Hakozaki,B.,,Member,International Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-241,Harbin,Harbin.xlsx,officers,241,Hanson,G.,,Member,International Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-242,Harbin,Harbin.xlsx,officers,242,Janushowsky,R.,,Member,International Service Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-243,Harbin,Harbin.xlsx,officers,243,Kawasumi,T.,,Chairman,Classification Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-244,Harbin,Harbin.xlsx,officers,244,Korelin,A.,,Member,Classification Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-245,Harbin,Harbin.xlsx,officers,245,Haag,H.,,Member,Classification Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-246,Harbin,Harbin.xlsx,officers,246,Kato,A.,,Chairman,Membership Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-247,Harbin,Harbin.xlsx,officers,247,Baitelin,N.,,Member,Membership Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-248,Harbin,Harbin.xlsx,officers,248,Gundsi,Y.,,Member,Membership Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-249,Harbin,Harbin.xlsx,officers,249,Kowazaki,T.,,Member,Membership Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-250,Harbin,Harbin.xlsx,officers,250,Lange,H.,,Member,Membership Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-251,Harbin,Harbin.xlsx,officers,251,Minsky,V.,,Chairman,Program Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-252,Harbin,Harbin.xlsx,officers,252,Li,Shao-Keng,,Member,Program Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-253,Harbin,Harbin.xlsx,officers,253,Onoe,T.,,Member,Program Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-254,Harbin,Harbin.xlsx,officers,254,Ostroumov,A.,,Member,Program Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-255,Harbin,Harbin.xlsx,officers,255,Oksakowsky,T.,,Chairman,Fellowship Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-256,Harbin,Harbin.xlsx,officers,256,Maeda,T.,,Member,Fellowship Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-257,Harbin,Harbin.xlsx,officers,257,Hasegawa,Y.,,Member,Fellowship Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-258,Harbin,Harbin.xlsx,officers,258,Bryner,L.,,Member,Fellowship Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-259,Harbin,Harbin.xlsx,officers,259,Maeda,T.,,Chairman,Attendance Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-260,Harbin,Harbin.xlsx,officers,260,Korelin,A.,,Member,Attendance Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-261,Harbin,Harbin.xlsx,officers,261,Fujita,Y.,,Member,Attendance Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-262,Harbin,Harbin.xlsx,officers,262,Ostroumov,A.,,Member,Attendance Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-263,Harbin,Harbin.xlsx,officers,263,Adachi,T.,,Chairman,Public Information Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-264,Harbin,Harbin.xlsx,officers,264,Oksakowsky,T.,,Member,Public Information Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-265,Harbin,Harbin.xlsx,officers,265,Fujita,Y.,,Chairman,Editorial Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-266,Harbin,Harbin.xlsx,officers,266,Baitelin,N.,,Member,Editorial Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-267,Harbin,Harbin.xlsx,officers,267,Kawasumi,T.,,Member,Editorial Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-268,Harbin,Harbin.xlsx,officers,268,Ostroumov,A.,,Member,Editorial Committee,,1932-08,,,,B36-F05-292
+OFF-Harbin-officers-269,Harbin,Harbin.xlsx,officers,269,Kanai,K.,,President,Officers,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-270,Harbin,Harbin.xlsx,officers,270,Haag,H.,,Vice-President,Officers,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-271,Harbin,Harbin.xlsx,officers,271,Waters,R.A.S.,,Secretary,Officers,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-272,Harbin,Harbin.xlsx,officers,272,Bryner,L.,,Treasurer,Officers,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-273,Harbin,Harbin.xlsx,officers,273,Lange,H.,,Sgt. at Arms,Officers,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-274,Harbin,Harbin.xlsx,officers,274,Bryner,L.,,Member,Board of Directors,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-275,Harbin,Harbin.xlsx,officers,275,Gundel,Y.,,Member,Board of Directors,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-276,Harbin,Harbin.xlsx,officers,276,Haag,H.,,Member,Board of Directors,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-277,Harbin,Harbin.xlsx,officers,277,Kanai,K.,,Member,Board of Directors,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-278,Harbin,Harbin.xlsx,officers,278,Li,Shao-Keng,,Member,Board of Directors,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-279,Harbin,Harbin.xlsx,officers,279,Takata,T.,,Member,Board of Directors,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-280,Harbin,Harbin.xlsx,officers,280,Waters,R.A.S.,,Member,Board of Directors,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-281,Harbin,Harbin.xlsx,officers,281,Kanai,K.,,Chairman,Aims and Object Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-282,Harbin,Harbin.xlsx,officers,282,Waters,R.A.S.,,Member,Aims and Object Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-283,Harbin,Harbin.xlsx,officers,283,Haag,H.,,Member,Aims and Object Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-284,Harbin,Harbin.xlsx,officers,284,Hanson,G.C.,,Member,Aims and Object Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-285,Harbin,Harbin.xlsx,officers,285,Bitting,S.T.,,Member,Aims and Object Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-286,Harbin,Harbin.xlsx,officers,286,Takata,T.,,Member,Aims and Object Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-287,Harbin,Harbin.xlsx,officers,287,Haag,H.,,Chairman,Club Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-288,Harbin,Harbin.xlsx,officers,288,Onoye,T.,,Member,Club Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-289,Harbin,Harbin.xlsx,officers,289,Li,Shao-Keng,,Member,Club Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-290,Harbin,Harbin.xlsx,officers,290,Oksakovsky,T.E.,,Member,Club Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-291,Harbin,Harbin.xlsx,officers,291,Baltelin,N.S.,,Member,Club Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-292,Harbin,Harbin.xlsx,officers,292,Gundel,Y.,,Member,Club Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-293,Harbin,Harbin.xlsx,officers,293,Takahata,S.,,Member,Club Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-294,Harbin,Harbin.xlsx,officers,294,Kawasumi,T.,,Member,Club Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-295,Harbin,Harbin.xlsx,officers,295,Hanson,G.C.,,Chairman,Vocational Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-296,Harbin,Harbin.xlsx,officers,296,Onoye,T.,,Member,Vocational Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-297,Harbin,Harbin.xlsx,officers,297,Bitting,S.T.,,Chairman,Community Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-298,Harbin,Harbin.xlsx,officers,298,Hirayama,R.,,Member,Community Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-299,Harbin,Harbin.xlsx,officers,299,Takata,T.,,Chairman,International Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-300,Harbin,Harbin.xlsx,officers,300,Kusik,H.A.,,Member,International Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-301,Harbin,Harbin.xlsx,officers,301,Gundel,Y.,,Member,International Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-302,Harbin,Harbin.xlsx,officers,302,Schwayer,A.V.,,Member,International Service Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-303,Harbin,Harbin.xlsx,officers,303,Onoye,T.,,Chairman,Classification Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-304,Harbin,Harbin.xlsx,officers,304,Janushovsky,R.,,Member,Classification Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-305,Harbin,Harbin.xlsx,officers,305,Haag,H.,,Member,Classification Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-306,Harbin,Harbin.xlsx,officers,306,Li,Shao-Keng,,Chairman,Membership Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-307,Harbin,Harbin.xlsx,officers,307,Kawasumi,T.,,Member,Membership Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-308,Harbin,Harbin.xlsx,officers,308,Kato,A.,,Member,Membership Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-309,Harbin,Harbin.xlsx,officers,309,Ostroumov,A.S.,,Member,Membership Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-310,Harbin,Harbin.xlsx,officers,310,Schwayer,A.V.,,Member,Membership Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-311,Harbin,Harbin.xlsx,officers,311,Oksakovsky,T.E.,,Chairman,Program Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-312,Harbin,Harbin.xlsx,officers,312,Kusik,H.A.,,Member,Program Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-313,Harbin,Harbin.xlsx,officers,313,Takahata,S.,,Member,Program Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-314,Harbin,Harbin.xlsx,officers,314,Baltelin,N.S.,,Chairman,Fellowship Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-315,Harbin,Harbin.xlsx,officers,315,Gundel,Y.,,Member,Fellowship Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-316,Harbin,Harbin.xlsx,officers,316,Lui,Tai,,Member,Fellowship Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-317,Harbin,Harbin.xlsx,officers,317,Gundel,Y.,,Chairman,Attendance Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-318,Harbin,Harbin.xlsx,officers,318,Minsky,V.N.,,Member,Attendance Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-319,Harbin,Harbin.xlsx,officers,319,Lange,H.,,Member,Attendance Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-320,Harbin,Harbin.xlsx,officers,320,Takahata,S.,,Chairman,Public Information Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-321,Harbin,Harbin.xlsx,officers,321,Waters,R.S.T.,,Member,Public Information Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-322,Harbin,Harbin.xlsx,officers,322,Kawasumi,T.,,Chairman,Editorial Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-323,Harbin,Harbin.xlsx,officers,323,Waters,R.A.S.,,Member,Editorial Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-324,Harbin,Harbin.xlsx,officers,324,Minsky,V.N.,,Member,Editorial Committee,,1933,1934,,,B36-F05-304
+OFF-Harbin-officers-325,Harbin,Harbin.xlsx,officers,325,Kanai,K.,,President,Officers,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-326,Harbin,Harbin.xlsx,officers,326,Li,Shao-Ken,,Vice-President,Officers,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-327,Harbin,Harbin.xlsx,officers,327,Ostroumoff,A.S.,,Vice-President,Officers,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-328,Harbin,Harbin.xlsx,officers,328,Kawasumi,T.,,Secretary,Officers,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-329,Harbin,Harbin.xlsx,officers,329,Bouianovsky,N.D.,,Treasurer,Officers,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-330,Harbin,Harbin.xlsx,officers,330,Korelin,A.M.,,Sgt at Arms,Officers,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-331,Harbin,Harbin.xlsx,officers,331,Bouianovsky,N.D.,,Member,Board of Directors,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-332,Harbin,Harbin.xlsx,officers,332,Gundsi,Y.,,Member,Board of Directors,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-333,Harbin,Harbin.xlsx,officers,333,Haag,H.L.,,Member,Board of Directors,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-334,Harbin,Harbin.xlsx,officers,334,Kanai,K.,,Member,Board of Directors,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-335,Harbin,Harbin.xlsx,officers,335,Kawasumi,T.,,Member,Board of Directors,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-336,Harbin,Harbin.xlsx,officers,336,Li,Shao-Ken,,Member,Board of Directors,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-337,Harbin,Harbin.xlsx,officers,337,Ostroumoff,A.S.,,Member,Board of Directors,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-338,Harbin,Harbin.xlsx,officers,338,Schweyer,A.H.,,Member,Board of Directors,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-339,Harbin,Harbin.xlsx,officers,339,Kanai,K.,,Chairman,Aims and Object Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-340,Harbin,Harbin.xlsx,officers,340,Balser,K.L.,,Member,Aims and Object Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-341,Harbin,Harbin.xlsx,officers,341,Li,Shao-Ken,,Member,Aims and Object Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-342,Harbin,Harbin.xlsx,officers,342,Kawasumi,T.,,Member,Aims and Object Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-343,Harbin,Harbin.xlsx,officers,343,Morishima,M.,,Member,Aims and Object Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-344,Harbin,Harbin.xlsx,officers,344,Schweyer,A.H.,,Member,Aims and Object Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-345,Harbin,Harbin.xlsx,officers,345,Li,Shao-Ken,,Member,Club Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-346,Harbin,Harbin.xlsx,officers,346,Gundsi,Y.,,Member,Club Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-347,Harbin,Harbin.xlsx,officers,347,Haag,H.L.,,Member,Club Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-348,Harbin,Harbin.xlsx,officers,348,Janushovsky,R.J.,,Member,Club Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-349,Harbin,Harbin.xlsx,officers,349,Lange,H.,,Member,Club Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-350,Harbin,Harbin.xlsx,officers,350,Kokubu,N.,,Member,Club Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-351,Harbin,Harbin.xlsx,officers,351,Minsky,V.,,Member,Club Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-352,Harbin,Harbin.xlsx,officers,352,Oksakovsky,T.E.,,Member,Club Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-353,Harbin,Harbin.xlsx,officers,353,Schweyer,A.H.,,Member,Vocational Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-354,Harbin,Harbin.xlsx,officers,354,Kowasaki,T.,,Member,Vocational Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-355,Harbin,Harbin.xlsx,officers,355,Balser,K.L.,,Chairman,Community Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-356,Harbin,Harbin.xlsx,officers,356,Ehara,K.,,Member,Community Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-357,Harbin,Harbin.xlsx,officers,357,Morishima,M.,,Chairman,International Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-358,Harbin,Harbin.xlsx,officers,358,Hassek,A.E.,,Member,International Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-359,Harbin,Harbin.xlsx,officers,359,Onoye,T.,,Member,International Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-360,Harbin,Harbin.xlsx,officers,360,Silberstein,E.,,Member,International Service Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-361,Harbin,Harbin.xlsx,officers,361,Janushovsky,R.J.,,Chairman,Classification Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-362,Harbin,Harbin.xlsx,officers,362,Haag,H.L.,,Member,Classification Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-363,Harbin,Harbin.xlsx,officers,363,Kawasumi,T.,,Member,Classification Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-364,Harbin,Harbin.xlsx,officers,364,Haag,H.L.,,Member,Membership Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-365,Harbin,Harbin.xlsx,officers,365,Li,Shao-Ken,,Member,Membership Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-366,Harbin,Harbin.xlsx,officers,366,Bryner,L.J.,,Member,Membership Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-367,Harbin,Harbin.xlsx,officers,367,Kato,A.,,Member,Membership Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-368,Harbin,Harbin.xlsx,officers,368,Takahata,S.,,Member,Membership Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-369,Harbin,Harbin.xlsx,officers,369,Minsky,V.,,Chairman,Program Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-370,Harbin,Harbin.xlsx,officers,370,Gundsi,Y.,,Member,Program Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-371,Harbin,Harbin.xlsx,officers,371,Janushovsky,R.J.,,Member,Program Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-372,Harbin,Harbin.xlsx,officers,372,Oksakovsky,T.E.,,Chairman,Fellowship Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-373,Harbin,Harbin.xlsx,officers,373,Lui,Tai,,Member,Fellowship Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-374,Harbin,Harbin.xlsx,officers,374,Sato,H.,,Member,Fellowship Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-375,Harbin,Harbin.xlsx,officers,375,Lange,H.,,Chairman,Attendance Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-376,Harbin,Harbin.xlsx,officers,376,Kawasumi,T.,,Member,Attendance Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-377,Harbin,Harbin.xlsx,officers,377,Lui,Tai,,Member,Attendance Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-378,Harbin,Harbin.xlsx,officers,378,Kokubu,N.,,Member,Public Information Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-379,Harbin,Harbin.xlsx,officers,379,Kusik,H.A.,,Member,Public Information Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-380,Harbin,Harbin.xlsx,officers,380,Gundsi,Y.,,Chairman,Editorial Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-381,Harbin,Harbin.xlsx,officers,381,Janushovsky,R.J.,,Member,Editorial Committee,,1934,1935,,,B36-F05-340
+OFF-Harbin-officers-382,Harbin,Harbin.xlsx,officers,382,Kawasumi,T.,,Member,Editorial Committee,,1934,1935,,,B36-F05-340

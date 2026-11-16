@@ -1,0 +1,117 @@
+# Rotary in China Textual Database (RCTB) - pipeline configuration.
+# Every run records a hash of this file, so results can be tied to the settings that produced them.
+
+project:
+  name: Rotary in China Textual Database
+  collection_id: AC0033            # prefix of the PDF names, e.g. AC0033-B37-F01.pdf
+  pipeline_version: "0.1.0"
+
+paths:
+  index_xlsx: data/raw/rotary_index.xlsx
+  pdf_dir: data/raw/pdf
+  work_dir: data/work              # intermediate, regenerable
+  out_dir: data/out                # the database
+  corrections_dir: corrections     # human edits; never overwritten by the pipeline
+  prompts_dir: prompts
+
+# Your existing per-PDF folders of PNG + text files: <dir>/AC0033-B37-F01_folder/image_0001.png, image_0001.text
+# Several patterns may be listed; the first that exists is used. Fields: {stem} = PDF name without .pdf,
+# {file_number} = B37-F01, {page} = 1-based page number.
+existing_pages:
+  enabled: true
+  dir: data/raw/pages
+  folder_patterns: ["{stem}_folder", "{stem}"]
+  txt_patterns: ["image_{page:04d}.text", "image_{page:04d}.txt"]
+  png_patterns: ["image_{page:04d}.png"]
+  use_png: false                   # false: page images are re-rendered from the PDF as compact JPEGs (same content,
+                                   # far smaller); true: your PNGs are copied into data/out/images instead
+
+render:
+  dpi: 150                         # page images for the viewer and for the vision model
+  format: jpg
+
+ocr:
+  tesseract: true
+  langs_all: "eng+jpn+chi_tra+rus" # pass 1: every script expected in the collection, to detect what is on the page
+  # pass 2 re-reads the page with only the languages actually detected (share of letters per script).
+  # This avoids look-alike errors such as Cyrillic "К" inside English names.
+  kana_min: 0.01                   # Japanese kana above this share  -> add jpn
+  cjk_min: 0.02                    # Han characters, no kana         -> add chi_tra
+  cyrillic_min: 0.15               # real Russian text, not stray look-alikes -> add rus
+  dpi: 200
+  workers: 2
+
+# Which text becomes a page's reference text, first available wins.
+#   corrected = corrections/pages/<file_number>/p0001.txt (human)
+#   llm       = vision-model transcription (stage `transcribe`)
+#   tesseract = fresh OCR made by this pipeline
+#   provided  = your existing text files (Google Vision OCR)
+#   embedded  = text layer already inside the PDF
+text_layer_priority: [corrected, llm, provided, tesseract, embedded]
+
+llm:
+  backend: none                    # anthropic | openai_compatible | none
+  model: claude-sonnet-5-5         # any vision-capable model; recorded with every result
+  max_tokens: 8000
+  base_url: http://localhost:11434/v1   # openai_compatible only (Ollama, vLLM, LM Studio...)
+  api_key_env: ANTHROPIC_API_KEY   # name of the environment variable holding the key
+  image_max_px: 1568               # long edge of page images sent to the model
+  retries: 2                       # re-ask when a reply does not fit the record structure
+  # stages: {enrich: {model: claude-opus-5-5}}   # optional per-stage overrides (transcribe, segment, enrich, rag)
+  # A fully local, free profile is in config.local.yaml (use with --config config.local.yaml)
+
+transcribe:
+  only_if: always                  # always | low_quality (skip pages whose OCR looks clean)
+  min_tess_conf: 85                # used by low_quality
+  draft_priority: [provided, tesseract, embedded]   # the vision model starts from the first reading available
+  second_draft: true               # also show it the next reading, as a second opinion
+  flag_kept_below: 0.85            # QA: flag a page if the model kept fewer of the OCR's words than this share
+  flag_new_above: 0.25             # QA: flag a page if more than this share of its words is in no OCR reading
+
+segment:
+  method: window                   # features = the model describes each page, fixed rules place the boundaries (recommended
+                                   #   for local models) | pairwise = each page compared with the one before | window = several
+                                   #   pages labelled per call (fastest; suits large API models)
+  window: 10                       # pages shown to the model at once
+  overlap: 2
+  image_max_px: 800
+  pair_image_max_px: 1024          # image size for the pairwise method
+
+enrich:
+  max_images: 6                    # page images sent per document (first N pages)
+  max_chars: 24000                 # text sent per document (head + tail if longer)
+  entities_chunk_chars: 6000       # entities are extracted from the text piece by piece; smaller pieces = more thorough, more calls
+  entities_with_images: false      # true: also show the page images to the entity call (slower)
+
+genres:                            # controlled vocabulary; edit freely, then re-run `enrich`
+  - correspondence                 # letter, telegram, memo
+  - roster                         # membership or officer list
+  - report                         # incl. semi-annual report forms
+  - news_clipping
+  - regulations                    # constitution, by-laws
+  - pamphlet                       # program, menu, brochure
+  - periodical                     # club bulletin, newsletter issue        (added)
+  - certificate                    # charter, convention credential         (added)
+  - administrative_record          # binder cover, contents, index/record cards (added)
+  - other
+
+embedding:
+  backend: tfidf                   # tfidf (no download; baseline) | ollama | sentence_transformers
+  model: BAAI/bge-m3               # multilingual (en/zh/ja/ru) - used by sentence_transformers
+  ollama_model: bge-m3             # used by backend ollama: `ollama pull bge-m3` (multilingual, about 1.2 GB)
+  chunk_chars: 1200
+  chunk_overlap: 200
+
+rag:
+  top_k: 5
+  answer_language: en              # en | zh
+
+# Used only by `python -m rctb estimate`. USD per million tokens [input, output], standard API prices
+# read from https://platform.claude.com/docs/en/about-claude/pricing on 2026-11-12. Check before budgeting.
+pricing:
+  batch_discount: 0.5              # Message Batches API: half price, results within 24 h
+  overhead_tokens_per_call: 500    # allowance for tool-use framing
+  models:
+    claude-haiku-5-5: [0.10, 0.50]
+    claude-sonnet-5-5: [2, 10]
+    claude-opus-5-5: [4, 20]

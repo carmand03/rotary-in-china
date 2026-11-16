@@ -1,0 +1,181 @@
+﻿club_id,attribute,value,detail,date_from,date_to,source,status,note
+amoy,name,Amoy,,,,archive index,auto,
+amoy,chartered,1933-10-23,,,,archive index (B09-F06),auto,first date of the index column CHARTERED
+amoy,admitted,1933-10-23,,,,archive index (B09-F06),auto,index column CHARTERED
+amoy,admitted,1948-06-02,,,,archive index (B09-F07),auto,index column CHARTERED
+amoy,terminated,1943-12-21,,,,archive index (B09-F06),auto,
+amoy,terminated,1950-12-21,,,,archive index (B09-F07),auto,
+canton,name,Canton,,,,archive index,auto,
+canton,chartered,1931-12-15,,,,archive index (B09-F08),auto,first date of the index column CHARTERED
+canton,admitted,1931-12-15,,,,archive index (B09-F08),auto,index column CHARTERED
+canton,admitted,1946-12-27,,,,archive index (B09-F09),auto,index column CHARTERED
+canton,terminated,1943-12-31,,,,archive index (B09-F08),auto,
+canton,terminated,1950-12-21,,,,archive index (B09-F09),auto,
+changsha,name,Changsha,,,,archive index,auto,
+changsha,chartered,1937-04-09,,,,archive index (B09-F10),auto,first date of the index column CHARTERED
+changsha,admitted,1937-04-09,,,,archive index (B09-F10),auto,index column CHARTERED
+changsha,terminated,1950-12-21,,,,archive index (B09-F10),auto,
+chengtu,name,Chengtu,,,,archive index,auto,
+chengtu,chartered,1938-06-14,,,,archive index (B09-F11),auto,first date of the index column CHARTERED
+chengtu,admitted,1938-06-14,,,,archive index (B09-F11),auto,index column CHARTERED
+chengtu,terminated,1950-12-21,,,,archive index (B09-F11),auto,
+chinkiang,name,Chinkiang,,,,archive index,auto,
+chinkiang,chartered,1939-11-25,,,,archive index (B09-F12),auto,first date of the index column CHARTERED
+chinkiang,admitted,1939-11-25,,,,archive index (B09-F12),auto,index column CHARTERED
+chinkiang,admitted,1947-03-28,,,,archive index (B09-F13),auto,index column CHARTERED
+chinkiang,terminated,1943-12-31,,,,archive index (B09-F12),auto,
+chinkiang,terminated,1950-12-21,,,,archive index (B09-F13),auto,
+chungking,name,Chungking,,,,archive index,auto,
+chungking,chartered,1937-06-03,,,,archive index (B10-F01),auto,first date of the index column CHARTERED
+chungking,admitted,1937-06-03,,,,archive index (B10-F01),auto,index column CHARTERED
+chungking,terminated,1950-12-21,,,,archive index (B10-F01),auto,
+dairen,name,Dairen,,,,archive index,auto,
+dairen,chartered,1929-01-21,,,,archive index (B36-F04),auto,first date of the index column CHARTERED
+dairen,admitted,1929-01-21,,,,archive index (B36-F04),auto,index column CHARTERED
+dairen,terminated,1940-12-31,,,,archive index (B36-F04),auto,
+foochow,name,Foochow,,,,archive index,auto,
+foochow,chartered,1933-06-21,,,,archive index (B10-F02),auto,first date of the index column CHARTERED
+foochow,admitted,1933-06-21,,,,archive index (B10-F02),auto,index column CHARTERED
+foochow,terminated,1950-12-21,,,,archive index (B10-F02),auto,
+hangchow,name,Hangchow,,,,archive index,auto,
+hangchow,organized,1931-04-11,,,,archive index (B10-F03),auto,
+hangchow,chartered,1932-06-23,,,,archive index (B10-F03),auto,first date of the index column CHARTERED
+hangchow,admitted,1932-06-23,,,,archive index (B10-F03),auto,index column CHARTERED
+hangchow,admitted,1947-06-30,,,,archive index (B10-F04),auto,index column CHARTERED
+hangchow,terminated,1943-12-31,,,,archive index (B10-F03),auto,
+hangchow,terminated,1950-12-21,,,,archive index (B10-F04),auto,
+hankow,name,Hankow,,,,archive index,auto,
+hankow,chartered,1933-12-20,,,,archive index (B10-F05),auto,first date of the index column CHARTERED
+hankow,admitted,1933-12-20,,,,archive index (B10-F05),auto,index column CHARTERED
+hankow,admitted,1946-05-25,,,,archive index (B10-F06),auto,index column CHARTERED
+hankow,terminated,1943-12-31,,,,archive index (B10-F05),auto,
+hankow,terminated,1950-12-21,,,,archive index (B10-F06),auto,
+harbin,name,Harbin,,,,archive index,auto,
+harbin,charter_number,3334,,,,Harbin.docx (header),auto,
+harbin,organized,1930-04-24,,,,Harbin.docx (header),auto,
+harbin,chartered,1930-06-04,,,,archive index (B36-F05),auto,first date of the index column CHARTERED
+harbin,admitted,1930-06-04,,,,archive index (B36-F05),auto,index column CHARTERED
+harbin,terminated,1940-12-31,,,,archive index (B36-F05),auto,
+harbin,meeting_day,Thursday,,,,Harbin.docx (header),auto,
+harbin,meeting_time,1pm,,,,Harbin.docx (header),auto,
+harbin,meeting_place,Nichiman Club,,,,Harbin.docx (header),auto,
+hsinking,name,Hsinking,,,,archive index,auto,
+hsinking,chartered,1935-01-11,,,,archive index (B37-F02),auto,first date of the index column CHARTERED
+hsinking,admitted,1935-01-11,,,,archive index (B37-F02),auto,index column CHARTERED
+hsinking,terminated,1940-12-31,,,,archive index (B37-F02),auto,
+kaifeng,name,Kaifeng,,,,archive index,auto,
+kaifeng,chartered,1936-05-13,,,,archive index (B10-F07),auto,first date of the index column CHARTERED
+kaifeng,admitted,1936-05-13,,,,archive index (B10-F07),auto,index column CHARTERED
+kaifeng,terminated,1943-12-31,,,,archive index (B10-F07),auto,
+kunming,name,Kunming,,,,archive index,auto,
+kunming,chartered,1937-05-28,,,,archive index (B10-F08),auto,first date of the index column CHARTERED
+kunming,admitted,1937-05-28,,,,archive index (B10-F08),auto,index column CHARTERED
+kunming,terminated,1950-12-21,,,,archive index (B10-F08),auto,
+kweilin,name,Kweilin,,,,archive index,auto,
+kweilin,chartered,1944-06-16,,,,archive index (B10-F09),auto,first date of the index column CHARTERED
+kweilin,admitted,1944-06-16,,,,archive index (B10-F09),auto,index column CHARTERED
+kweilin,terminated,1946-06-04,,,,archive index (B10-F09),auto,
+kweiyang,name,Kweiyang,,,,archive index,auto,
+kweiyang,chartered,1945-04-23,,,,archive index (B10-F10),auto,first date of the index column CHARTERED
+kweiyang,admitted,1945-04-23,,,,archive index (B10-F10),auto,index column CHARTERED
+kweiyang,terminated,1950-12-21,,,,archive index (B10-F10),auto,
+lanchow,name,Lanchow,,,,archive index,auto,
+lanchow,chartered,1943-11-11,,,,archive index (B10-F11),auto,first date of the index column CHARTERED
+lanchow,admitted,1943-11-11,,,,archive index (B10-F11),auto,index column CHARTERED
+lanchow,terminated,1950-12-21,,,,archive index (B10-F11),auto,
+liuchow,name,Liuchow,,,,archive index,auto,
+liuchow,chartered,1948-12-14,,,,archive index (B10-F12),auto,first date of the index column CHARTERED
+liuchow,admitted,1948-12-14,,,,archive index (B10-F12),auto,index column CHARTERED
+liuchow,terminated,1950-12-21,,,,archive index (B10-F12),auto,
+mukden-china,name,Mukden,,,,archive index,auto,
+mukden-china,chartered,1948-03-31,,,,archive index (B10-F13),auto,first date of the index column CHARTERED
+mukden-china,admitted,1948-03-31,,,,archive index (B10-F13),auto,index column CHARTERED
+mukden-china,terminated,1950-12-21,,,,archive index (B10-F13),auto,
+mukden-manchuria,name,Mukden,,,,archive index,auto,
+mukden-manchuria,chartered,1929-04-11,,,,archive index (B37-F03),auto,first date of the index column CHARTERED
+mukden-manchuria,admitted,1929-04-11,,,,archive index (B37-F03),auto,index column CHARTERED
+mukden-manchuria,terminated,1940-12-31,,,,archive index (B37-F03),auto,
+nanchang,name,Nanchang,,,,archive index,auto,
+nanchang,chartered,1948-03-29,,,,archive index (B10-F14),auto,first date of the index column CHARTERED
+nanchang,admitted,1948-03-29,,,,archive index (B10-F14),auto,index column CHARTERED
+nanchang,terminated,1950-12-21,,,,archive index (B10-F14),auto,
+nanking,name,Nanking,,,,archive index,auto,
+nanking,chartered,1934-01-19,,,,archive index (B10-F15),auto,first date of the index column CHARTERED
+nanking,admitted,1934-01-19,,,,archive index (B10-F15),auto,index column CHARTERED
+nanking,admitted,1946-12-24,,,,archive index (B11-F01),auto,index column CHARTERED
+nanking,terminated,1943-12-31,,,,archive index (B10-F15),auto,
+nanking,terminated,1952-01-24,,,,archive index (B11-F01),auto,
+ningpo,name,Ningpo,,,,archive index,auto,
+ningpo,chartered,1936-09-02,,,,archive index (B11-F02),auto,first date of the index column CHARTERED
+ningpo,admitted,1936-09-02,,,,archive index (B11-F02),auto,index column CHARTERED
+ningpo,admitted,1946-10-21,,,,archive index (B11-F03),auto,index column CHARTERED
+ningpo,terminated,1943-12-31,,,,archive index (B11-F02),auto,
+ningpo,terminated,1950-12-21,,,,archive index (B11-F03),auto,
+peking,name,Peking,,,,archive index,auto,
+peking,chartered,1924-08-30,,,,archive index (B11-F04),auto,first date of the index column CHARTERED
+peking,admitted,1924-08-30,,,,archive index (B11-F04),auto,index column CHARTERED
+peking,admitted,1946-08-14,,,,archive index (B11-F05),auto,index column CHARTERED
+peking,terminated,1943-12-31,,,,archive index (B11-F04),auto,
+peking,terminated,1951-06-26,,,,archive index (B11-F05),auto,
+shanghai,name,Shanghai,,,,archive index,auto,
+shanghai,chartered,1919-10-01,,,,archive index (B11-F06),auto,first date of the index column CHARTERED
+shanghai,admitted,1919-10-01,,,,archive index (B11-F06),auto,index column CHARTERED
+shanghai,admitted,1946-03-27,,,,archive index (B13-F03),auto,index column CHARTERED
+shanghai,terminated,1943-12-31,,,,archive index (B11-F06),auto,
+shanghai,terminated,1951-10-16,,,,archive index (B13-F03),auto,
+shanghai-west,name,Shanghai West,,,,archive index,auto,
+shanghai-west,chartered,1948-11-16,,,,archive index (B13-F04),auto,first date of the index column CHARTERED
+shanghai-west,admitted,1948-11-16,,,,archive index (B13-F04),auto,index column CHARTERED
+shanghai-west,terminated,1952-01-24,,,,archive index (B13-F04),auto,
+sian,name,Sian,,,,archive index,auto,
+sian,chartered,1937-08-30,,,,archive index (B13-F05),auto,first date of the index column CHARTERED
+sian,admitted,1937-08-30,,,,archive index (B13-F05),auto,index column CHARTERED
+sian,terminated,1950-12-21,,,,archive index (B13-F05),auto,
+soochow,name,Soochow,,,,archive index,auto,
+soochow,chartered,1936-11-11,,,,archive index (B13-F06),auto,first date of the index column CHARTERED
+soochow,admitted,1936-11-11,,,,archive index (B13-F06),auto,index column CHARTERED
+soochow,admitted,1947-02-26,,,,archive index (B13-F07),auto,index column CHARTERED
+soochow,terminated,1943-12-31,,,,archive index (B13-F06),auto,
+soochow,terminated,1950-12-21,,,,archive index (B13-F07),auto,
+swatow,name,Swatow,,,,archive index,auto,
+swatow,chartered,1936-05-21,,,,archive index (B14-F01),auto,first date of the index column CHARTERED
+swatow,admitted,1936-05-21,,,,archive index (B14-F01),auto,index column CHARTERED
+swatow,admitted,1947-11-07,,,,archive index (B14-F02),auto,index column CHARTERED
+swatow,terminated,1943-12-31,,,,archive index (B14-F01),auto,
+swatow,terminated,1950-12-21,,,,archive index (B14-F02),auto,
+tientsin,name,Tientsin,,,,archive index,auto,
+tientsin,chartered,1923-05-10,,,,archive index (B14-F03),auto,first date of the index column CHARTERED
+tientsin,admitted,1923-05-10,,,,archive index (B14-F03),auto,index column CHARTERED
+tientsin,admitted,1946-09-17,,,,archive index (B15-F02),auto,index column CHARTERED
+tientsin,terminated,1943-12-31,,,,archive index (B14-F03),auto,
+tientsin,terminated,1952-01-24,,,,archive index (B15-F02),auto,
+tsinan,name,Tsinan,,,,archive index,auto,
+tsinan,chartered,1932-12-09,,,,archive index (B15-F03),auto,first date of the index column CHARTERED
+tsinan,admitted,1932-12-09,,,,archive index (B15-F03),auto,index column CHARTERED
+tsinan,admitted,1947-05-14,,,,archive index (B15-F04),auto,index column CHARTERED
+tsinan,terminated,1943-12-31,,,,archive index (B15-F03),auto,
+tsinan,terminated,1950-12-21,,,,archive index (B15-F04),auto,
+tsingtao,name,Tsingtao,,,,archive index,auto,
+tsingtao,chartered,1932-09-09,,,,archive index (B15-F05),auto,first date of the index column CHARTERED
+tsingtao,admitted,1932-09-09,,,,archive index (B15-F05),auto,index column CHARTERED
+tsingtao,admitted,1946-12-27,,,,archive index (B15-F06),auto,index column CHARTERED
+tsingtao,terminated,1943-12-31,,,,archive index (B15-F05),auto,
+tsingtao,terminated,1950-12-21,,,,archive index (B15-F06),auto,
+wuchang,name,Wuchang,,,,archive index,auto,
+wuchang,chartered,1937-03-08,,,,archive index (B16-F02),auto,first date of the index column CHARTERED
+wuchang,admitted,1937-03-08,,,,archive index (B16-F02),auto,index column CHARTERED
+wuchang,terminated,1943-12-31,,,,archive index (B16-F02),auto,
+wuchow,name,Wuchow,,,,archive index,auto,
+wuchow,chartered,1936-05-22,,,,archive index (B16-F01),auto,first date of the index column CHARTERED
+wuchow,admitted,1936-05-22,,,,archive index (B16-F01),auto,index column CHARTERED
+wuchow,terminated,1950-12-21,,,,archive index (B16-F01),auto,
+wuhu,name,Wuhu,,,,archive index,auto,
+wuhu,chartered,1936-02-06,,,,archive index (B16-F03),auto,first date of the index column CHARTERED
+wuhu,admitted,1936-02-06,,,,archive index (B16-F03),auto,index column CHARTERED
+wuhu,terminated,1943-12-31,,,,archive index (B16-F03),auto,
+wusih,name,Wusih,,,,archive index,auto,
+wusih,chartered,1937-06-16,,,,archive index (B16-F04),auto,first date of the index column CHARTERED
+wusih,admitted,1937-06-16,,,,archive index (B16-F04),auto,index column CHARTERED
+wusih,admitted,1947-04-08,,,,archive index (B16-F05),auto,index column CHARTERED
+wusih,terminated,1943-12-31,,,,archive index (B16-F04),auto,
+wusih,terminated,1950-12-21,,,,archive index (B16-F05),auto,

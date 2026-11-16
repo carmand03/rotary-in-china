@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.pydeps/
+
+# Scans and other bulky or restricted inputs: never committed
+data/raw/pdf/*
+data/raw/pages/*
+!data/raw/pdf/.gitkeep
+!data/raw/pages/.gitkeep
+
+# Copy of rotaryinchina.org (reuse terms not settled) and what is derived from it
+actors/web/
+actors/work/web_text/
+actors/work/web_*.csv
+actors/authority/web_*.csv
+
+# Results of other runs kept side by side (data/out2, data/out3 ...) and run logs
+data/out[0-9]*/
+data/work/run.log
+data/work/run.pid
+
+# Local settings and secrets
+.env
+*.local.env
+.DS_Store

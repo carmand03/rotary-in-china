@@ -1,0 +1,409 @@
+﻿source,target,relation,role,first_attested,last_attested,n_attestations,archive_pages
+P00001,C00001,holds_office,Committee Chairman,1932,1933,2,"B36-F05-p236, B36-F05-p292"
+P00001,C00002,holds_office,Committee Member,1931,1933,4,"B36-F05-p185, B36-F05-p236, B36-F05-p292"
+P00001,C00003,holds_office,Committee Member,1931,1933,4,"B36-F05-p185, B36-F05-p236, B36-F05-p292"
+P00001,C00004,holds_office,Committee Chairman,1931,1932-03,2,"B36-F05-p185, B36-F05-p236"
+P00001,C00009,holds_office,Committee Member,1931,1933,4,"B36-F05-p185, B36-F05-p236, B36-F05-p292"
+P00001,I00018,affiliated_with,Advisor,1930-10,1930-10,1,B36-F05-p093
+P00001,harbin,holds_office,Director,1931,1932-11,3,"B36-F05-p185, B36-F05-p223, B36-F05-p236"
+P00001,harbin,holds_office,Vice-President,1932,1933,2,"B36-F05-p223, B36-F05-p236"
+P00001,harbin,member_of,,1930-10,1932-08,2,"B36-F05-p093, B36-F05-p292"
+P00002,I00077,affiliated_with,Editor,1930-10,1930-10,1,B36-F05-p093
+P00002,harbin,member_of,,1930-10,1930-10,1,B36-F05-p093
+P00003,C00001,holds_office,Committee Member,1932,1935,3,"B36-F05-p237, B36-F05-p292, B36-F05-p340"
+P00003,C00005,holds_office,Committee Member,1931,1932,1,B36-F05-p237
+P00003,C00006,holds_office,Committee Chairman,1932,1935,3,"B36-F05-p237, B36-F05-p292, B36-F05-p340"
+P00003,C00009,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00003,C00010,holds_office,Committee Member,1931,1932,1,B36-F05-p237
+P00003,C00012,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00003,I00012,affiliated_with,Barrister at law,1936-06,1936-06,1,B37-F01-p005
+P00003,I00081,affiliated_with,Head,1931-02,1931-02,1,B36-F05-p140
+P00003,harbin,holds_office,Director,1932,1936,3,"B36-F05-p223, B36-F05-p237, B37-F01-p003"
+P00003,harbin,holds_office,Vice-President,,1936,1,B37-F01-p003
+P00003,harbin,member_of,,1931-02,1936-06,3,"B36-F05-p140, B36-F05-p293, B37-F01-p005"
+P00004,C00001,holds_office,Committee Member,1933,1935,2,"B36-F05-p304, B36-F05-p340"
+P00004,C00005,holds_office,Committee Chairman,1934,1935,1,B36-F05-p340
+P00004,C00006,holds_office,Committee Chairman,1933,1934,1,B36-F05-p304
+P00004,I00004,affiliated_with,Director & Partner,1931-05,1931-05,1,B36-F05-p149
+P00004,I00059,affiliated_with,General Director,1936-06,1936-06,1,B37-F01-p005
+P00004,harbin,member_of,,1931-05,1936-06,2,"B36-F05-p149, B37-F01-p005"
+P00005,I00006,affiliated_with,President,1936-06,1936-06,1,B37-F01-p006
+P00005,harbin,member_of,,1936-06,1936-06,1,B37-F01-p006
+P00006,C00001,holds_office,Committee Member,1933,1935,2,"B36-F05-p304, B36-F05-p340"
+P00006,C00002,holds_office,Committee Chairman,1933,1934,1,B36-F05-p304
+P00006,C00002,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00006,C00003,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00006,C00006,holds_office,Committee Member,1932,1933,2,"B36-F05-p237, B36-F05-p292"
+P00006,I00017,affiliated_with,Tupang,1932-08,1932-08,1,B36-F05-p293
+P00006,harbin,holds_office,Director,1933,1935,2,"B36-F05-p304, B36-F05-p340"
+P00006,harbin,holds_office,Vice-President,1934,1935,1,B36-F05-p340
+P00006,harbin,member_of,,1932-08,1932-08,1,B36-F05-p293
+P00007,I00047,affiliated_with,Chief Inspector,1930-04,1930-04,1,B36-F05-p014
+P00007,harbin,holds_office,Director,1930-04,1930-04,1,B36-F05-p012
+P00007,harbin,holds_office,Secretary,1930,1931,2,"B36-F05-p002, B36-F05-p012"
+P00007,harbin,member_of,,1930-04,1930-04,1,B36-F05-p014
+P00008,C00001,holds_office,Committee Member,1932-03,1932-08,2,"B36-F05-p185, B36-F05-p292"
+P00008,C00003,holds_office,Committee Member,1932-03,1932-03,1,B36-F05-p185
+P00008,C00004,holds_office,Committee Member,1932-03,1932-03,1,B36-F05-p185
+P00008,C00008,holds_office,Committee Chairman,1932-03,1932-03,1,B36-F05-p185
+P00008,C00009,holds_office,Committee Chairman,1932-08,1932-08,1,B36-F05-p292
+P00008,C00012,holds_office,Committee Member,1932-08,1932-08,1,B36-F05-p292
+P00008,I00078,affiliated_with,Branch Manager,1932-08,1932-08,1,B36-F05-p292
+P00008,I00079,affiliated_with,Agent,1930-04,1932-10,1,"B36-F05-p013, B36-F05-p224"
+P00008,harbin,holds_office,Director,1932-03,1932-03,1,B36-F05-p185
+P00008,harbin,holds_office,Secretary,1932-03,1932-03,1,B36-F05-p185
+P00008,harbin,member_of,,1930-04,1932-10,2,"B36-F05-p013, B36-F05-p224, B36-F05-p292"
+P00009,I00033,affiliated_with,Consul General,1930-04,1930-04,1,B36-F05-p015
+P00009,harbin,holds_office,Director,1930-04,1930-04,1,B36-F05-p012
+P00009,harbin,member_of,,1930-04,1930-04,1,B36-F05-p015
+P00010,C00005,holds_office,Committee Member,1932,1933,2,"B36-F05-p237, B36-F05-p292"
+P00010,C00006,holds_office,Committee Member,1931,1932-03,2,"B36-F05-p185, B36-F05-p237"
+P00010,I00035,affiliated_with,Branch Manager,1932-08,1932-08,1,B36-F05-p293
+P00010,harbin,member_of,,1932-08,1932-08,1,B36-F05-p293
+P00011,C00006,holds_office,Committee Member,1932,1933,2,"B36-F05-p238, B36-F05-p292"
+P00011,C00007,holds_office,Committee Member,1931,1933,4,"B36-F05-p185, B36-F05-p238, B36-F05-p292"
+P00011,I00009,affiliated_with,Branch Manager,1932-08,1932-08,1,B36-F05-p294
+P00011,harbin,holds_office,Director,1932-11,1932-11,1,B36-F05-p223
+P00011,harbin,holds_office,Honorary Treasurer,1932,1933,1,B36-F05-p238
+P00011,harbin,holds_office,Treasurer,1932-11,1932-11,1,B36-F05-p223
+P00011,harbin,member_of,,1932-08,1932-08,1,B36-F05-p294
+P00012,I00069,affiliated_with,Proprietor,1930-04,1931-03,1,"B36-F05-p015, B36-F05-p143"
+P00012,harbin,member_of,,1930-04,1931-03,1,"B36-F05-p015, B36-F05-p143"
+P00013,I00063,affiliated_with,Chief,1936-06,1936-06,1,B37-F01-p006
+P00013,harbin,member_of,,1936-06,1936-06,1,B37-F01-p006
+P00014,C00007,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00014,C00008,holds_office,Committee Member,1931,1932-03,2,"B36-F05-p185, B36-F05-p237"
+P00014,C00010,holds_office,Committee Member,1931,1933,4,"B36-F05-p185, B36-F05-p237, B36-F05-p292"
+P00014,I00070,affiliated_with,Managing Director,1931-02,1932-08,2,"B36-F05-p140, B36-F05-p293"
+P00014,harbin,member_of,,1931-02,1932-08,2,"B36-F05-p140, B36-F05-p293"
+P00015,I00026,affiliated_with,Managing Director,1930-04,1930-04,1,B36-F05-p015
+P00015,harbin,holds_office,Director,1930-04,1930-04,1,B36-F05-p012
+P00015,harbin,member_of,,1930-04,1930-04,1,B36-F05-p015
+P00016,I00062,affiliated_with,Governor,1936-06,1936-06,1,B37-F01-p006
+P00016,harbin,holds_office,Director,1936,1937,1,B37-F01-p007
+P00016,harbin,member_of,,1936-06,1936-06,1,B37-F01-p006
+P00017,I00071,affiliated_with,Proprietor,1930-04,1931-03,1,"B36-F05-p014, B36-F05-p141"
+P00017,harbin,member_of,,1930-04,1931-03,1,"B36-F05-p014, B36-F05-p141"
+P00018,I00050,affiliated_with,Proprietor,1930-04,1930-04,1,B36-F05-p014
+P00018,harbin,member_of,,1930-04,1930-04,1,B36-F05-p014
+P00019,I00080,affiliated_with,Branch Manager,1930-04,1931-05,1,"B36-F05-p015, B36-F05-p147"
+P00019,harbin,holds_office,Sergeant-At-Arms,1930-04,1930-04,1,B36-F05-p012
+P00019,harbin,member_of,,1930-04,1931-05,1,"B36-F05-p015, B36-F05-p147"
+P00020,C00002,holds_office,Committee Member,1931,1932-03,2,"B36-F05-p185, B36-F05-p237"
+P00020,I00008,affiliated_with,Branch Manager,1930-12,1932-08,2,"B36-F05-p096, B36-F05-p294"
+P00020,harbin,member_of,,1930-12,1932-08,2,"B36-F05-p096, B36-F05-p294"
+P00021,I00049,affiliated_with,Branch Manager,1930-10,1931-03,1,"B36-F05-p093, B36-F05-p141"
+P00021,harbin,member_of,,1930-10,1931-03,1,"B36-F05-p093, B36-F05-p141"
+P00022,I00009,affiliated_with,Branch Manager,1936-06,1936-06,1,B37-F01-p004
+P00022,harbin,holds_office,President,1937,1937,1,B37-F01-p027
+P00022,harbin,member_of,,1936-06,1936-06,1,B37-F01-p004
+P00023,I00034,affiliated_with,Director,1930-04,1930-10,1,"B36-F05-p014, B36-F05-p094"
+P00023,harbin,member_of,,1930-04,1930-10,1,"B36-F05-p014, B36-F05-p094"
+P00024,I00057,affiliated_with,Managing Director,1932-08,1932-08,1,B36-F05-p294
+P00024,harbin,member_of,,1932-08,1932-08,1,B36-F05-p294
+P00025,C00001,holds_office,Committee Member,1931,1934,3,"B36-F05-p185, B36-F05-p238, B36-F05-p304"
+P00025,C00002,holds_office,Committee Chairman,1931,1932-03,2,"B36-F05-p185, B36-F05-p238"
+P00025,C00002,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00025,C00003,holds_office,Committee Member,1932,1933,2,"B36-F05-p238, B36-F05-p292"
+P00025,C00006,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00025,C00010,holds_office,Committee Chairman,1932,1933,2,"B36-F05-p238, B36-F05-p292"
+P00025,C00011,holds_office,Committee Chairman,1933,1934,1,B36-F05-p304
+P00025,I00006,affiliated_with,General Manager,1936-06,1936-06,1,B37-F01-p006
+P00025,I00066,affiliated_with,Chief Conditioner,1932-08,1932-08,1,B36-F05-p294
+P00025,harbin,member_of,,1932-08,1936-06,2,"B36-F05-p294, B37-F01-p006"
+P00026,I00023,affiliated_with,Commissioner,1936-06,1936-06,1,B37-F01-p006
+P00026,harbin,member_of,,1936-06,1936-06,1,B37-F01-p006
+P00027,C00001,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00027,C00002,holds_office,Committee Member,1932,1933,2,"B36-F05-p236, B36-F05-p292"
+P00027,C00003,holds_office,Committee Chairman,1931,1932-03,2,"B36-F05-p185, B36-F05-p236"
+P00027,C00003,holds_office,Committee Member,1932,1933,2,"B36-F05-p236, B36-F05-p292"
+P00027,C00004,holds_office,Committee Chairman,1932,1933,2,"B36-F05-p236, B36-F05-p292"
+P00027,C00006,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00027,C00009,holds_office,Committee Chairman,1934,1935,1,B36-F05-p340
+P00027,I00005,affiliated_with,Adviser,1930-04,1930-04,1,B37-F01-p004
+P00027,I00067,affiliated_with,Adviser,1932-08,1932-08,1,B36-F05-p292
+P00027,I00073,affiliated_with,Adviser,1930-08,1930-08,1,B36-F05-p081
+P00027,I00076,affiliated_with,Chief of Affairs,1930-04,1930-04,1,B36-F05-p013
+P00027,harbin,holds_office,Corresponding Secretary,1936,1937,2,"B37-F01-p007, B37-F01-p033"
+P00027,harbin,holds_office,Director,1930-04,1935,5,"B36-F05-p012, B36-F05-p185, B36-F05-p223, B36-F05-p236, B36-F05-p340"
+P00027,harbin,holds_office,President,1931,1932-03,3,"B36-F05-p185, B36-F05-p236, B37-F01-p003"
+P00027,harbin,holds_office,Secretary,1937,1940-01,4,"B37-F01-p027, B37-F01-p033, B37-F01-p039"
+P00027,harbin,holds_office,Vice-President,1930,1931,3,"B36-F05-p002, B36-F05-p012, B36-F05-p236"
+P00027,harbin,member_of,,1930-04,1932-08,4,"B36-F05-p013, B36-F05-p081, B36-F05-p292, B37-F01-p004"
+P00028,C00001,holds_office,Committee Member,1932,1933,2,"B36-F05-p237, B36-F05-p292"
+P00028,C00005,holds_office,Committee Member,1931,1933,4,"B36-F05-p185, B36-F05-p237, B36-F05-p292"
+P00028,C00007,holds_office,Committee Member,1930,1931,1,B36-F05-p237
+P00028,C00012,holds_office,Committee Chairman,1932,1933,2,"B36-F05-p237, B36-F05-p292"
+P00028,I00007,affiliated_with,Proprietor,1930-04,1932-08,2,"B36-F05-p293, B37-F01-p005"
+P00028,harbin,holds_office,Director,1936,1937,1,B37-F01-p007
+P00028,harbin,holds_office,Treasurer,1936,1937,1,B37-F01-p007
+P00028,harbin,member_of,,1930-04,1932-08,2,"B36-F05-p293, B37-F01-p005"
+P00029,C00007,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00029,I00019,affiliated_with,Deputy Commissioner,1936-06,1936-06,1,B37-F01-p004
+P00029,harbin,holds_office,Director,1936,1937,1,B37-F01-p007
+P00029,harbin,holds_office,President,1936,1937,1,B37-F01-p007
+P00029,harbin,member_of,,1936-06,1936-06,1,B37-F01-p004
+P00030,I00074,affiliated_with,Branch Manager,1930-04,1930-04,1,B36-F05-p015
+P00030,harbin,holds_office,Director,1930-04,1930-04,1,B36-F05-p012
+P00030,harbin,member_of,,1930-04,1930-04,1,B36-F05-p015
+P00031,C00001,holds_office,Committee Member,1932,1933,2,"B36-F05-p236, B36-F05-p292"
+P00031,C00011,holds_office,Committee Chairman,1932,1933,2,"B36-F05-p236, B36-F05-p292"
+P00031,I00060,affiliated_with,Director,1932-08,1932-08,1,B36-F05-p292
+P00031,harbin,member_of,,1932-08,1932-08,1,B36-F05-p292
+P00032,I00049,affiliated_with,Branch Manager,1930-04,1930-04,1,B36-F05-p014
+P00032,harbin,member_of,,1930-04,1930-04,1,B36-F05-p014
+P00033,I00046,affiliated_with,Proprietor,1930-04,1930-04,1,B36-F05-p014
+P00033,harbin,member_of,,1930-04,1930-04,1,B36-F05-p014
+P00034,C00001,holds_office,Committee Chairman,1931,1932-03,2,"B36-F05-p185, B36-F05-p238"
+P00034,C00003,holds_office,Committee Chairman,1932,1933,2,"B36-F05-p238, B36-F05-p292"
+P00034,C00003,holds_office,Committee Member,1931,1934,3,"B36-F05-p185, B36-F05-p238, B36-F05-p304"
+P00034,C00004,holds_office,Committee Chairman,1933,1934,1,B36-F05-p304
+P00034,C00010,holds_office,Committee Chairman,1930,1931,1,B36-F05-p238
+P00034,I00065,affiliated_with,Dean,1932-08,1932-08,1,B36-F05-p294
+P00034,harbin,holds_office,Director,1932-03,1934,3,"B36-F05-p185, B36-F05-p223, B36-F05-p304"
+P00034,harbin,holds_office,President,1932,1933,3,"B36-F05-p223, B36-F05-p238, B37-F01-p003"
+P00034,harbin,holds_office,Vice-President,1931,1932-03,2,"B36-F05-p185, B36-F05-p238"
+P00034,harbin,member_of,,1932-08,1932-08,1,B36-F05-p294
+P00035,I00055,affiliated_with,Dean,1930-04,1930-04,1,B36-F05-p015
+P00035,harbin,member_of,,1930-04,1930-04,1,B36-F05-p015
+P00036,C00001,holds_office,Committee Member,1931,1934,5,"B36-F05-p185, B36-F05-p237, B36-F05-p292, B36-F05-p304"
+P00036,C00002,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00036,C00003,holds_office,Committee Member,1932,1935,3,"B36-F05-p237, B36-F05-p292, B36-F05-p340"
+P00036,C00006,holds_office,Committee Chairman,1931,1932-03,2,"B36-F05-p185, B36-F05-p237"
+P00036,C00008,holds_office,Committee Chairman,1932,1933,2,"B36-F05-p237, B36-F05-p292"
+P00036,C00008,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00036,C00009,holds_office,Committee Chairman,1931,1934,2,"B36-F05-p237, B36-F05-p304"
+P00036,C00009,holds_office,Committee Member,1932,1935,4,"B36-F05-p185, B36-F05-p237, B36-F05-p292, B36-F05-p340"
+P00036,C00012,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00036,I00003,affiliated_with,Director,1932-08,1936-06,2,"B36-F05-p293, B37-F01-p005"
+P00036,I00003,affiliated_with,Governor,1931-05,1931-05,1,B36-F05-p148
+P00036,harbin,holds_office,Director,1932-03,1937,4,"B36-F05-p185, B36-F05-p223, B36-F05-p340, B37-F01-p007"
+P00036,harbin,holds_office,Secretary,1932,1937-01,5,"B36-F05-p223, B36-F05-p237, B36-F05-p340, B37-F01-p007, B37-F01-p033"
+P00036,harbin,holds_office,Sergeant-At-Arms,1931,1932-03,2,"B36-F05-p185, B36-F05-p237"
+P00036,harbin,member_of,,1931-05,1936-06,3,"B36-F05-p148, B36-F05-p293, B37-F01-p005"
+P00037,I00084,affiliated_with,Branch Manager,1930-04,1930-04,1,B36-F05-p013
+P00037,harbin,holds_office,Director,1930-04,1930-04,1,B36-F05-p012
+P00037,harbin,holds_office,Treasurer,1930,1931,2,"B36-F05-p002, B36-F05-p012"
+P00037,harbin,member_of,,1930-04,1930-04,1,B36-F05-p013
+P00038,C00002,holds_office,Committee Member,1932,1933,2,"B36-F05-p237, B36-F05-p292"
+P00038,C00003,holds_office,Committee Chairman,1930,1931,1,B36-F05-p237
+P00038,C00003,holds_office,Committee Member,1931,1932-03,2,"B36-F05-p185, B36-F05-p237"
+P00038,C00010,holds_office,Committee Chairman,1931,1932-03,2,"B36-F05-p185, B36-F05-p237"
+P00038,I00030,affiliated_with,Managing Director,1930-04,1930-04,1,B36-F05-p014
+P00038,I00038,affiliated_with,Managing Director,1932-08,1932-08,1,B36-F05-p293
+P00038,harbin,holds_office,Director,1930-04,1932-03,3,"B36-F05-p012, B36-F05-p185, B36-F05-p237"
+P00038,harbin,holds_office,Past President,1932-03,1932-03,1,B36-F05-p185
+P00038,harbin,holds_office,President,1930,1931,2,"B36-F05-p012, B36-F05-p237"
+P00038,harbin,member_of,,1930-04,1932-08,2,"B36-F05-p014, B36-F05-p293"
+P00039,C00003,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00039,C00007,holds_office,Committee Member,1932,1933,1,B36-F05-p238
+P00039,C00009,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00039,harbin,holds_office,Director,1933,1934,1,B36-F05-p304
+P00039,harbin,holds_office,Secretary,1933,1934,1,B36-F05-p304
+P00039,harbin,member_of,,1932-08,1932-08,1,B36-F05-p294
+P00040,C00001,holds_office,Committee Member,1931,1933,4,"B36-F05-p185, B36-F05-p237, B36-F05-p292"
+P00040,C00002,holds_office,Committee Chairman,1932,1933,2,"B36-F05-p237, B36-F05-p292"
+P00040,C00002,holds_office,Committee Member,1931,1935,4,"B36-F05-p185, B36-F05-p237, B36-F05-p304, B36-F05-p340"
+P00040,C00005,holds_office,Committee Chairman,1931,1932-03,2,"B36-F05-p185, B36-F05-p237"
+P00040,I00002,affiliated_with,President,1930-07,1936-06,3,"B36-F05-p077, B36-F05-p293, B37-F01-p004"
+P00040,harbin,member_of,,1930-07,1936-06,3,"B36-F05-p077, B36-F05-p293, B37-F01-p004"
+P00041,C00004,holds_office,Committee Member,1931,1933,4,"B36-F05-p185, B36-F05-p237, B36-F05-p292"
+P00041,I00044,affiliated_with,Proprietor,1930-12,1930-12,1,B36-F05-p096
+P00041,I00045,affiliated_with,Proprietor,1932-08,1932-08,1,B36-F05-p294
+P00041,harbin,member_of,,1930-12,1932-08,2,"B36-F05-p096, B36-F05-p294"
+P00042,I00021,affiliated_with,Proprietor,1930-04,1930-04,1,B36-F05-p013
+P00042,harbin,member_of,,1930-04,1930-04,1,B36-F05-p013
+P00043,C00003,holds_office,Committee Member,1930,1931,1,B36-F05-p236
+P00043,C00004,holds_office,Committee Chairman,1930,1931,1,B36-F05-p236
+P00043,C00004,holds_office,Committee Member,1932,1933,2,"B36-F05-p236, B36-F05-p292"
+P00043,I00011,affiliated_with,Branch Manager,1930-04,1930-04,1,B36-F05-p013
+P00043,harbin,holds_office,Director,1932-03,1932-03,1,B36-F05-p185
+P00043,harbin,holds_office,Honorary Treasurer,1931,1932,1,B36-F05-p236
+P00043,harbin,holds_office,Treasurer,1932-03,1932-03,1,B36-F05-p185
+P00043,harbin,member_of,,1930-04,1930-04,1,B36-F05-p013
+P00044,I00010,affiliated_with,Branch Manager,1932-08,1932-08,1,B36-F05-p292
+P00044,harbin,member_of,,1932-08,1932-08,1,B36-F05-p292
+P00045,I00027,affiliated_with,Manager,1930-04,1930-04,1,B36-F05-p013
+P00045,harbin,member_of,,1930-04,1930-04,1,B36-F05-p013
+P00046,I00036,affiliated_with,Branch Manager,1930-04,1931-03,1,"B36-F05-p014, B36-F05-p141"
+P00046,harbin,member_of,,1930-04,1931-03,1,"B36-F05-p014, B36-F05-p141"
+P00047,C00013,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00047,I00037,affiliated_with,Managing Director,1930-04,1930-04,1,B37-F01-p005
+P00047,harbin,holds_office,President,1930,1931,1,"B36-F05-p002, B37-F01-p003"
+P00047,harbin,member_of,,1930-04,1930-04,1,B37-F01-p005
+P00048,I00005,affiliated_with,Director,1936-06,1936-06,1,B37-F01-p005
+P00048,harbin,holds_office,Director,1936,1937,1,B37-F01-p007
+P00048,harbin,member_of,,1936-06,1936-06,1,B37-F01-p005
+P00049,I00075,affiliated_with,Branch Manager,1930-07,1930-07,1,B36-F05-p077
+P00049,harbin,member_of,,1930-07,1930-07,1,B36-F05-p077
+P00050,C00011,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00051,I00028,affiliated_with,Managing Director,1930-04,1930-10,1,"B36-F05-p015, B36-F05-p094"
+P00051,harbin,member_of,,1930-04,1930-10,1,"B36-F05-p015, B36-F05-p094"
+P00052,C00001,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00052,C00002,holds_office,Committee Member,1931,1933,4,"B36-F05-p185, B36-F05-p237, B36-F05-p292"
+P00052,C00012,holds_office,Committee Chairman,1934,1935,1,B36-F05-p340
+P00052,C00012,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00052,I00053,affiliated_with,Manager,1932-08,1936-06,2,"B36-F05-p293, B37-F01-p005"
+P00052,I00056,affiliated_with,Manager,1931-05,1931-05,1,B36-F05-p149
+P00052,harbin,holds_office,Sergeant-At-Arms,1933,1934,1,B36-F05-p304
+P00052,harbin,member_of,,1931-05,1936-06,3,"B36-F05-p149, B36-F05-p293, B37-F01-p005"
+P00053,I00040,affiliated_with,Managing Partner,1930-08,1930-08,1,B36-F05-p080
+P00053,harbin,member_of,,1930-08,1930-08,1,B36-F05-p080
+P00054,C00001,holds_office,Committee Member,1932,1933,1,B36-F05-p238
+P00054,C00005,holds_office,Committee Chairman,1932,1933,1,B36-F05-p238
+P00054,C00005,holds_office,Committee Member,1931,1932,1,B36-F05-p238
+P00054,C00011,holds_office,Committee Member,1931,1933,2,B36-F05-p238
+P00054,harbin,holds_office,Sergeant-At-Arms,1932,1933,2,"B36-F05-p223, B36-F05-p238"
+P00055,C00001,holds_office,Committee Chairman,1933,1934,1,B36-F05-p304
+P00055,C00001,holds_office,Committee Member,1931,1935,3,"B36-F05-p185, B36-F05-p236, B36-F05-p340"
+P00055,C00002,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00055,C00003,holds_office,Committee Member,1932-08,1934,2,"B36-F05-p292, B36-F05-p304"
+P00055,C00007,holds_office,Committee Chairman,1932-08,1932-08,1,B36-F05-p292
+P00055,C00007,holds_office,Committee Member,1931,1932-03,2,"B36-F05-p185, B36-F05-p236"
+P00055,C00008,holds_office,Committee Member,1931,1935,5,"B36-F05-p185, B36-F05-p236, B36-F05-p292, B36-F05-p304, B36-F05-p340"
+P00055,C00011,holds_office,Committee Chairman,1931,1932-03,2,"B36-F05-p185, B36-F05-p236"
+P00055,I00083,affiliated_with,General Secretary,1932-08,1932-08,1,B36-F05-p292
+P00055,harbin,holds_office,Director,1932-11,1935,3,"B36-F05-p223, B36-F05-p304, B36-F05-p340"
+P00055,harbin,holds_office,Vice-President,1933,1934,1,B36-F05-p304
+P00055,harbin,member_of,,1932-08,1932-08,1,B36-F05-p292
+P00056,C00004,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00056,C00008,holds_office,Committee Member,1931,1932-03,2,"B36-F05-p185, B36-F05-p237"
+P00056,I00001,affiliated_with,Far Eastern Representative,1931-05,1936-06,3,"B36-F05-p148, B36-F05-p293, B37-F01-p004"
+P00056,harbin,holds_office,Director,1936,1937,1,B37-F01-p007
+P00056,harbin,holds_office,Vice-President,1936,1937,1,B37-F01-p007
+P00056,harbin,member_of,,1931-05,1936-06,3,"B36-F05-p148, B36-F05-p293, B37-F01-p004"
+P00057,C00004,holds_office,Committee Member,1931,1933,4,"B36-F05-p185, B36-F05-p237, B36-F05-p292"
+P00057,C00006,holds_office,Committee Member,1931,1932-03,2,"B36-F05-p185, B36-F05-p237"
+P00057,I00001,affiliated_with,Harbin Branch Manager,1931-05,1931-05,1,B36-F05-p148
+P00057,I00029,affiliated_with,Branch Manager,1932-08,1932-08,1,B36-F05-p293
+P00057,harbin,member_of,,1931-05,1932-08,2,"B36-F05-p148, B36-F05-p293"
+P00058,C00005,holds_office,Committee Member,1933,1935,2,"B36-F05-p304, B36-F05-p340"
+P00058,C00012,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00058,I00042,affiliated_with,Proprietor,1936-06,1936-06,1,B37-F01-p005
+P00058,harbin,holds_office,Sergeant-At-Arms,1936,1937,1,B37-F01-p007
+P00058,harbin,member_of,,1936-06,1936-06,1,B37-F01-p005
+P00059,C00001,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00059,C00006,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00059,C00008,holds_office,Committee Chairman,1934,1935,1,B36-F05-p340
+P00059,C00008,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00059,C00009,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00060,C00008,holds_office,Committee Member,1932,1933,2,"B36-F05-p237, B36-F05-p292"
+P00060,C00012,holds_office,Committee Member,1932,1933,2,"B36-F05-p237, B36-F05-p292"
+P00060,I00016,affiliated_with,Managing Director,1932-08,1932-08,1,B36-F05-p293
+P00060,I00039,affiliated_with,Proprietor,1936-06,1936-06,1,B37-F01-p005
+P00060,harbin,holds_office,Sergeant-At-Arms,1934,1935,1,B36-F05-p340
+P00060,harbin,member_of,,1932-08,1936-06,2,"B36-F05-p293, B37-F01-p005"
+P00061,C00002,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00061,C00006,holds_office,Committee Member,1932,1933,2,"B36-F05-p238, B36-F05-p292"
+P00061,C00009,holds_office,Committee Member,1932,1933,2,"B36-F05-p238, B36-F05-p292"
+P00061,C00012,holds_office,Committee Member,1932,1933,2,"B36-F05-p238, B36-F05-p292"
+P00061,harbin,member_of,,1932-08,1932-08,1,B36-F05-p294
+P00062,C00004,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00062,C00006,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00062,C00011,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00062,I00072,affiliated_with,Branch Manager,1936-06,1936-06,1,B37-F01-p005
+P00062,harbin,member_of,,1936-06,1936-06,1,B37-F01-p005
+P00063,C00003,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00063,C00013,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00063,I00031,affiliated_with,,1936-06,1936-06,1,B37-F01-p006
+P00063,harbin,holds_office,Director,1934,1935,1,B36-F05-p340
+P00063,harbin,member_of,,1936-06,1936-06,1,B37-F01-p006
+P00064,C00003,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00064,C00007,holds_office,Committee Chairman,1934,1935,1,B36-F05-p340
+P00065,C00001,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00065,C00005,holds_office,Committee Chairman,1933,1934,1,B36-F05-p304
+P00066,C00003,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00066,C00007,holds_office,Committee Chairman,1933,1934,1,B36-F05-p304
+P00067,harbin,holds_office,Director,1934,1935,1,B36-F05-p340
+P00067,harbin,holds_office,Treasurer,1934,1935,1,B36-F05-p340
+P00068,C00003,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00068,C00004,holds_office,Committee Member,1932,1933,2,"B36-F05-p236, B36-F05-p292"
+P00068,C00010,holds_office,Committee Chairman,1933,1934,1,B36-F05-p304
+P00068,C00010,holds_office,Committee Member,1932-08,1932-08,1,B36-F05-p292
+P00068,harbin,member_of,,1932-08,1932-08,1,B36-F05-p292
+P00069,I00014,affiliated_with,Lawyer,1936-06,1936-06,1,B37-F01-p005
+P00069,harbin,holds_office,Director,1934,1935,1,B36-F05-p340
+P00069,harbin,holds_office,Vice-President,1934,1935,1,B36-F05-p340
+P00069,harbin,member_of,,1936-06,1936-06,1,B37-F01-p005
+P00070,I00013,affiliated_with,Manager,1936-06,1936-06,1,B37-F01-p005
+P00070,harbin,holds_office,Director,1936,1937,1,B37-F01-p007
+P00070,harbin,member_of,,1936-06,1936-06,1,B37-F01-p005
+P00071,C00002,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00071,C00004,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00072,I00051,affiliated_with,Adviser,1936-06,1936-06,1,B37-F01-p004
+P00072,harbin,member_of,,1932-08,1936-06,2,"B36-F05-p292, B37-F01-p004"
+P00073,C00002,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00073,C00005,holds_office,Committee Member,1932,1933,2,"B36-F05-p236, B36-F05-p292"
+P00073,I00015,affiliated_with,Proprietor,1936-06,1936-06,1,B37-F01-p004
+P00073,harbin,holds_office,Director,1933,1934,1,B36-F05-p304
+P00073,harbin,holds_office,Treasurer,1933,1934,1,B36-F05-p304
+P00073,harbin,member_of,,1932-08,1936-06,2,"B36-F05-p292, B37-F01-p004"
+P00074,I00001,affiliated_with,Branch Manager,1936-06,1936-06,1,B37-F01-p004
+P00074,harbin,member_of,,1936-06,1936-06,1,B37-F01-p004
+P00075,I00032,affiliated_with,Managing Director,1936-06,1936-06,1,B37-F01-p004
+P00075,harbin,member_of,,1936-06,1936-06,1,B37-F01-p004
+P00076,I00085,affiliated_with,Managing Director,1936-06,1936-06,1,B37-F01-p004
+P00076,harbin,member_of,,1936-06,1936-06,1,B37-F01-p004
+P00077,I00004,affiliated_with,Director,1932-08,1932-08,1,B36-F05-p294
+P00077,harbin,member_of,,1932-08,1932-08,1,B36-F05-p294
+P00078,I00041,affiliated_with,Branch Manager,1936-06,1936-06,1,B37-F01-p006
+P00078,harbin,member_of,,1936-06,1936-06,1,B37-F01-p006
+P00079,I00022,affiliated_with,Director,1930-04,1930-04,1,B36-F05-p014
+P00079,harbin,member_of,,1930-04,1930-04,1,B36-F05-p014
+P00080,C00003,holds_office,Committee Chairman,1933,1935,2,"B36-F05-p304, B36-F05-p340"
+P00080,I00068,affiliated_with,,,,1,
+P00080,harbin,holds_office,Director,1933,1935,2,"B36-F05-p304, B36-F05-p340"
+P00080,harbin,holds_office,President,1933,1935,3,"B36-F05-p304, B36-F05-p340, B37-F01-p003"
+P00080,harbin,member_of,,,,1,
+P00081,C00003,holds_office,Committee Member,1932-03,1932-03,1,B36-F05-p185
+P00081,C00007,holds_office,Committee Chairman,1931,1932-03,2,"B36-F05-p185, B36-F05-p238"
+P00081,C00007,holds_office,Committee Member,1932,1933,2,"B36-F05-p238, B36-F05-p292"
+P00081,harbin,holds_office,Director,1930,1931,1,B36-F05-p238
+P00082,C00001,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00082,C00004,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00082,C00005,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00082,C00012,holds_office,Committee Chairman,1933,1934,1,B36-F05-p304
+P00082,harbin,holds_office,Director,1933,1934,1,B36-F05-p304
+P00083,C00001,holds_office,Committee Member,1932-08,1932-08,1,B36-F05-p292
+P00083,C00005,holds_office,Committee Chairman,1932-08,1932-08,1,B36-F05-p292
+P00083,C00005,holds_office,Committee Member,1932-03,1932-03,1,B36-F05-p185
+P00083,C00011,holds_office,Committee Member,1932-03,1932-08,2,"B36-F05-p185, B36-F05-p292"
+P00084,C00001,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00084,C00004,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00084,C00008,holds_office,Committee Chairman,1933,1934,1,B36-F05-p304
+P00084,C00010,holds_office,Committee Member,1933,1934,1,B36-F05-p304
+P00085,I00020,affiliated_with,Consul,1936-06,1936-06,1,B37-F01-p004
+P00085,harbin,holds_office,Director,,1936,1,B37-F01-p003
+P00085,harbin,holds_office,Vice-President,,1936,1,B37-F01-p003
+P00085,harbin,member_of,,1936-06,1936-06,1,B37-F01-p004
+P00086,C00001,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00086,C00011,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00086,I00025,affiliated_with,,1936-06,1936-06,1,B37-F01-p005
+P00086,harbin,member_of,,1936-06,1936-06,1,B37-F01-p005
+P00087,C00005,holds_office,Committee Member,1932-03,1932-03,1,B36-F05-p185
+P00087,C00010,holds_office,Committee Member,1932-03,1932-03,1,B36-F05-p185
+P00088,C00003,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00088,C00004,holds_office,Committee Chairman,1934,1935,1,B36-F05-p340
+P00089,C00005,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00089,I00043,affiliated_with,Branch Manager,1936-06,1936-06,1,B37-F01-p005
+P00089,harbin,member_of,,1936-06,1936-06,1,B37-F01-p005
+P00090,I00048,affiliated_with,Branch Manager,1936-06,1936-06,1,B37-F01-p004
+P00090,harbin,member_of,,1936-06,1936-06,1,B37-F01-p004
+P00091,I00054,affiliated_with,Managing Director,1936-06,1936-06,1,B37-F01-p005
+P00091,harbin,member_of,,1936-06,1936-06,1,B37-F01-p005
+P00092,C00011,holds_office,Committee Member,1932-03,1932-03,1,B36-F05-p185
+P00093,I00052,affiliated_with,Chief Engineer,1936-06,1936-06,1,B37-F01-p006
+P00093,harbin,member_of,,1936-06,1936-06,1,B37-F01-p006
+P00094,I00024,affiliated_with,Vice President,1936-06,1936-06,1,B37-F01-p006
+P00094,harbin,member_of,,1936-06,1936-06,1,B37-F01-p006
+P00095,C00004,holds_office,Committee Member,1934,1935,1,B36-F05-p340
+P00096,C00007,holds_office,Committee Member,1932-08,1932-08,1,B36-F05-p292
+P00097,I00061,affiliated_with,Manager,1936-06,1936-06,1,B37-F01-p006
+P00097,harbin,member_of,,1936-06,1936-06,1,B37-F01-p006
+P00098,harbin,holds_office,Director,1936,1937,1,B37-F01-p007
+P00099,I00064,affiliated_with,Consul,1936-06,1936-06,1,B37-F01-p005
+P00099,harbin,member_of,,1936-06,1936-06,1,B37-F01-p005
+P00100,I00058,affiliated_with,Managing Director,1936-06,1936-06,1,B37-F01-p006
+P00100,harbin,member_of,,1936-06,1936-06,1,B37-F01-p006
+P00101,I00082,affiliated_with,Consul General,1936-06,1936-06,1,B37-F01-p004
+P00101,harbin,member_of,,1936-06,1936-06,1,B37-F01-p004

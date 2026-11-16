@@ -1,0 +1,56 @@
+# Presentation settings for Datasette (https://datasette.io): titles, descriptions, default facets.
+# Open locally with:  python -m rcad serve
+title: Rotary in China Actor Database (RCAD)
+description: Persons, clubs and institutions of the Rotary movement in China and Manchuria, 1919-1952, with every statement linked to the archival page it comes from.
+databases:
+  rcad:
+    description: Actor database. Tables ending in _attestation hold one statement per source, as written; person, institution and membership are derived from them.
+    tables:
+      person:
+        description: One row per person. Name variants are in person_name; what each source says is in membership_attestation and office_attestation.
+        sort: family_name
+        facets: [clubs]
+        label_column: display_name
+      person_name:
+        description: Every spelling of a person's name found in the sources, and why it was attached to that person (status, rule).
+        facets: [status, rule]
+      membership:
+        description: One row per person and club, summarising the attestations. Recomputed at every build.
+        facets: [club_id, charter_member]
+      membership_attestation:
+        description: One row per member listed in one roster or report, exactly as recorded there.
+        facets: [club_id, date_start, classification]
+      office_attestation:
+        description: One row per office or committee seat stated in one source.
+        facets: [club_id, position_id, committee_id, date_start]
+      office:
+        description: office_attestation with names instead of identifiers.
+      institution:
+        label_column: name
+        sort_desc: n_attestations
+      club:
+        label_column: name
+        facets: [country, has_actor_data]
+      club_stat:
+        description: Membership and attendance figures, one value per row.
+        facets: [club_id, measure]
+      source:
+        description: Archive pages cited. doc_id links to the document of the text database (RCTB) that contains the page.
+        facets: [file_number]
+      document:
+        description: Documents of the text database (RCTB), copied here so that sources, notes and persons can link to them.
+        label_column: title
+        facets: [file_number, genre]
+      note:
+        description: Research notes on the archive folders, one per page or page range.
+        facets: [club_id, file_number]
+      person_document:
+        description: Documents of the text database in which a person is named (matched by family name and initials within the club).
+        facets: [rule]
+      classification:
+        description: Rotary classifications as worded in the sources; major and minor are assigned in actors/authority/classifications.csv.
+        facets: [status, major]
+      position:
+        label_column: label
+      committee:
+        label_column: name

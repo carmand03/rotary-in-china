@@ -1,0 +1,51 @@
+﻿person_id,doc_id,name_in_document,role_in_document,rule
+P00029,B37-F01-p003,K. Ehara,President; Deputy Commissioner of Customs,family name and given name or initials
+P00085,B37-F01-p003,R. Hejny,Vice-President; Czechoslovak Consul,family name and given name or initials
+P00003,B37-F01-p003,V. Minsky,Vice-President,family name and given name or initials
+P00036,B37-F01-p003,T. Kawasumi,"Secretary; Director, Japanese Commercial Museum",family name and given name or initials
+P00028,B37-F01-p003,T. Maeda,Treasurer,family name and given name or initials
+P00027,B37-F01-p003,Y. Gundsi,"Corresponding Secretary; Adviser, Harbin Direction of State Railways; charter member",family name and given name or initials
+P00056,B37-F01-p003,A. Hassek,"Vice-President 1936-37; Far Eastern Representative, International Wagons-Lits Co.",family name and given name or initials
+P00070,B37-F01-p003,W. Radwan,Director 1936-37,family name and given name or initials
+P00048,B37-F01-p003,K Sahara,Director 1936-37,family name and given name or initials
+P00047,B37-F01-p003,T. Kowasaki,Past President 1930-1931,family name and given name or initials
+P00034,B37-F01-p003,T. Takata,Past President 1932-1933,family name and given name or initials
+P00080,B37-F01-p003,K. Kanai,Past President 1933-1935,family name and given name or initials
+P00072,B37-F01-p003,"Ahnert, E. E.","Mining engineer; Adviser, Mulin Coal Mining Co.",family name and given name or initials
+P00073,B37-F01-p003,"Bryner, L. J.","Shipping agency; proprietor, Bryner & Co.",family name and given name or initials
+P00060,B37-F01-p003,"Korelin, A. M.","Fur distributing; proprietor, Korelin & Co.",family name and given name or initials
+P00086,B37-F01-p003,"Kokubu, N.",Internal medicine; Harbin Hospital of S. M. Rly,family name and given name or initials
+P00093,B37-F01-p003,"Sato, T.","Chief Engineer, Municipal Administration of Greater Harbin",family name and given name or initials
+P00063,B37-F01-p003,"Schweyer, A. H.",International Harvester Export Co.,family name and given name or initials
+P00094,B37-F01-p003,"Shimada, C.","Vice President, Harbin Exchange Ltd",family name and given name or initials
+P00025,B37-F01-p003,"Takahata, S.",Inland water transport,family name and given name or initials
+P00029,B37-F01-p007,Koichi Ehara,President and Director,family name and given name or initials
+P00056,B37-F01-p007,A. E. Hassek,Vice-President and Director,family name and given name or initials
+P00098,B37-F01-p007,A. van Custem,Director,family name and given name or initials
+P00036,B37-F01-p007,Tadao Kawasumi,Secretary and Director,family name and given name or initials
+P00028,B37-F01-p007,Toshio Maeda,Treasurer and Director,family name and given name or initials
+P00070,B37-F01-p007,W. J. Radwan,Director,family name and given name or initials
+P00048,B37-F01-p007,Kenji Sahara,Director,family name and given name or initials
+P00027,B37-F01-p007,Yoshio Gundsi,Correspondence Secretary,family name and given name or initials
+P00027,B37-F01-p009,Y. Gundsi,Secretary,family name and given name or initials
+P00027,B37-F01-p011,Y. Gundsi,Secretary,family name and given name or initials
+P00029,B37-F01-p012,Ehara,President,family name only (single person of that name in the club)
+P00048,B37-F01-p012,Sahara,"Rotarian, transferred to Mukden",family name only (single person of that name in the club)
+P00070,B37-F01-p012,Radwan,Rotarian,family name only (single person of that name in the club)
+P00100,B37-F01-p012,Zikman,Rotarian,family name only (single person of that name in the club)
+P00029,B37-F01-p020,K. Ehara,President,family name and given name or initials
+P00076,B37-F01-p020,Kaufman,Rotarian,family name only (single person of that name in the club)
+P00036,B37-F01-p020,Kawasumi,Rotarian ('Taddy'),family name only (single person of that name in the club)
+P00062,B37-F01-p020,H. Kusik,Rotarian,family name and given name or initials
+P00072,B37-F01-p020,E. Ahnert,Rotarian,family name and given name or initials
+P00038,B37-F01-p024,Torao Kowazaki,President,family name and given name or initials
+P00007,B37-F01-p024,Shigetaka Ishihara,Secretary,family name and given name or initials
+P00029,B37-F01-p025,K. Ehara,Delegate,family name and given name or initials
+P00036,B37-F01-p025,T. Kawasumi,Delegate,family name and given name or initials
+P00022,B37-F01-p027,KAWAMURA,President 1937-38; Yokohama Specie Bank,family name only (single person of that name in the club)
+P00027,B37-F01-p027,Yoshio GUNDSI,Secretary 1937-38; Harbin Railway Directorate,family name and given name or initials
+P00027,B37-F01-p029,Y. Gundsi,Secretary,family name and given name or initials
+P00027,B37-F01-p033,Y. Gundsi,Corresponding Secretary,family name and given name or initials
+P00036,B37-F01-p033,Tadao Kawasumi,Secretary,family name and given name or initials
+P00027,B37-F01-p039,Y. Gundsi,Corresponding Secretary,family name and given name or initials
+P00027,B37-F01-p043,Yoshio Gundsi,Secretary,family name and given name or initials

@@ -1,0 +1,1 @@
+Transcribe all the text on this page exactly as written, in its original language and script, in natural reading order. Keep original spelling and line breaks. Include letterheads, stamps and handwritten notes. Write [illegible] where you cannot read something. Output only the transcription, with no commentary.
