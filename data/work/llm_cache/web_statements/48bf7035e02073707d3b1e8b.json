@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "backend": "ollama",
+    "model": "qwen3:8b",
+    "time": "2026-11-16T17:31:04+00:00",
+    "system_sha": "aecbfe87900a",
+    "usage": {
+      "input_tokens": 1920,
+      "output_tokens": 1181,
+      "seconds": 80.1,
+      "stop_reason": "stop"
+    },
+    "cache_key": "48bf7035e02073707d3b1e8b",
+    "attempts": 1
+  },
+  "task": "web_statements",
+  "images": [],
+  "user_text": "Article: Bien Zue-Sun (Tientsin) 卞壽孫(天津)\n\nText (passage 1):\n\n1\n\n中文版在第 14-22 頁\n卞壽孫 -- 簽發鈔票的天津扶輪人\nBien Zue-Sun\nThe Tientsin Rotarian Who Issued Banknotes\nBy Herbert K. Lau (劉敬恒) (Rotary China Historian)\n1 November 2014\n\n卞壽孫（白眉）   Bien Zue-Sun\n\nBien Zue-Sun – The Career Banker\nBien Zue-Sun (卞壽孫) (1884-1968) was the Tientsin Rotary Club ( 天津扶輪社) President\n1930-1931 when he was a d irector of the Bank of China  (中國銀行), concurrently the Tientsin\nOffice Manager.  Bien had been the authorized person to underwrite the national currency\nbanknotes of the Republican China.  Bien was a  career banker since 1912  until 1954.  He had\nserved the Bank of China  for half of a century, and had built a solid foundation on the banking\nsystem for today’s Bank 0f China which is now the major banking vehicle of the state.\nTientsin Rotary Club was fo rmed in 1922 -1923, and was one of the major international\norganizations in the city, until its termination on 24 January 1952.  Bien had exemplified the\nRotary Vocational Service through his “entire life in the Classification of Banking -- High ethical\nstandards in business and professions; the recognition of the worthiness of all useful\noccupations; and the dignifying of his occupation as an  opportunity to serve society; t he\napplication of the ideal of service in his personal, business, and community life ”.   He served\nseveral terms as president/chairman of the Tientsin Bankers’ Association, and Chamber of\nCommerce, respectively.  In February 1921, Bien was decorated by the Beiyang Government of\nthe Republican China (中華民國北洋政府), the Order of the Golden Grain 2nd Class ( 二等嘉禾\n\n2",
+  "result": {
+    "statements": [
+      {
+        "subject": "Bien Zue-Sun",
+        "subject_vernacular": "卞壽孫",
+        "subject_type": "person",
+        "attribute": "birth",
+        "value": "1884",
+        "value_vernacular": "",
+        "detail": "",
+        "date_from": "1884",
+        "date_to": "",
+        "place": "",
+        "quote": "Bien Zue-Sun (卞壽孫) (1884-1968)"
+      },
+      {
+        "subject": "Bien Zue-Sun",
+        "subject_vernacular": "卞壽孫",
+        "subject_type": "person",
+        "attribute": "death",
+        "value": "1968",
+        "value_vernacular": "",
+        "detail": "",
+        "date_from": "1968",
+        "date_to": "",
+        "place": "",
+        "quote": "Bien Zue-Sun (卞壽孫) (1884-1968)"
+      },
+      {
+        "subject": "Bien Zue-Sun",
+        "subject_vernacular": "卞壽孫",
+        "subject_type": "person",
+        "attribute": "rotary_membership",
+        "value": "Tientsin Rotary Club",
+        "value_vernacular": "天津扶輪社",
+        "detail": "",
+        "date_from": "1930",
+        "date_to": "1931",
+        "place": "",
+        "quote": "Bien Zue-Sun (卞壽孫) ... was the Tientsin Rotary Club ... President 1930-1931"
+      },
+      {
+        "subject": "Bien Zue-Sun",
+        "subject_vernacular": "卞壽孫",
+        "subject_type": "person",
+        "attribute": "occupation",
+        "value": "Bank of China",
+        "value_vernacular": "中國銀行",
+        "detail": "director",
+        "date_from": "1930",
+        "date_to": "1931",
+        "place": "",
+        "quote": "Bien Zue-Sun ... was the Tientsin Rotary Club ... President 1930-1931 when he was a director of the Bank of China"
+      },
+      {
+        "subject": "Bien Zue-Sun",
+        "subject_vernacular": "卞壽孫",
+        "subject_type": "person",
+        "attribute": "occupation",
+        "value": "Bank of China",
+        "value_vernacular": "中國銀行",
+        "detail": "Office Manager",
+        "date_from": "1930",
+        "date_to": "1931",
+        "place": "Tientsin",
+        "quote": "Bien Zue-Sun ... was the Tientsin Rotary Club ... President 1930-1931 when he was a director of the Bank of China ... concurrently the Tientsin Office Manager"
+      },
+      {
+        "subject": "Tientsin Rotary Club",
+        "subject_vernacular": "天津扶輪社",
+        "subject_type": "club",
+        "attribute": "organized",
+        "value": "Tientsin Rotary Club",
+        "value_vernacular": "天津扶輪社",
+        "detail": "",
+        "date_from": "1922",
+        "date_to": "1923",
+        "place": "",
+        "quote": "Tientsin Rotary Club was formed in 1922 -1923"
+      },
+      {
+        "subject": "Tientsin Rotary Club",
+        "subject_vernacular": "天津扶輪社",
+        "subject_type": "club",
+        "attribute": "terminated",
+        "value": "Tientsin Rotary Club",
+        "value_vernacular": "天津扶輪社",
+        "detail": "",
+        "date_from": "1952-01-24",
+        "date_to": "",
+        "place": "",
+        "quote": "Tientsin Rotary Club ... was one of the major international organizations in the city, until its termination on 24 January 1952"
+      },
+      {
+        "subject": "Bien Zue-Sun",
+        "subject_vernacular": "卞壽孫",
+        "subject_type": "person",
+        "attribute": "honour",
+        "value": "Order of the Golden Grain 2nd Class",
+        "value_vernacular": "二等嘉禾章",
+        "detail": "Beiyang Government of the Republican China",
+        "date_from": "1921-02",
+        "date_to": "",
+        "place": "",
+        "quote": "In February 1921, Bien was decorated by the Beiyang Government of the Republican China ... the Order of the Golden Grain 2nd Class"
+      },
+      {
+        "subject": "Bien Zue-Sun",
+        "subject_vernacular": "卞壽孫",
+        "subject_type": "person",
+        "attribute": "rotary_office",
+        "value": "President",
+        "value_vernacular": "",
+        "detail": "Tientsin Rotary Club",
+        "date_from": "1930",
+        "date_to": "1931",
+        "place": "",
+        "quote": "Bien Zue-Sun ... was the Tientsin Rotary Club ... President 1930-1931"
+      },
+      {
+        "subject": "Bien Zue-Sun",
+        "subject_vernacular": "卞壽孫",
+        "subject_type": "person",
+        "attribute": "occupation",
+        "value": "Bank of China",
+        "value_vernacular": "中國銀行",
+        "detail": "career banker",
+        "date_from": "1912",
+        "date_to": "1954",
+        "place": "",
+        "quote": "Bien had been the authorized person to underwrite the national currency banknotes of the Republican China. Bien was a career banker since 1912 until 1954."
+      }
+    ]
+  }
+}

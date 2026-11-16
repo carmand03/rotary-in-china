@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "backend": "ollama",
+    "model": "qwen3-vl:8b",
+    "time": "2026-11-13T11:14:57+00:00",
+    "system_sha": "786456757d25",
+    "usage": {
+      "input_tokens": 2807,
+      "output_tokens": 5632,
+      "seconds": 363.9,
+      "stop_reason": "stop"
+    },
+    "cache_key": "973dd59d653bce16772e1694",
+    "attempts": 1
+  },
+  "task": "transcribe",
+  "images": [
+    "/Users/carmand/Desktop/claude_rotary_textbase/rctb/data/out/images/B37-F01/p0001.jpg"
+  ],
+  "user_text": "Folder: Rotary Club of Harbin (Manchuria), page 1 of 46.\n\nOCR reading to start from:\n<ocr_1>\npich\n5525-Oct. 39-500\nHISTORICAL BINDER\nCLUB MEMBERSHIP\nIN R. I. TERMINATED\nDEC 31 1940\nROTARY CLUB OF HARBIN, MANCHURIA\nOrganized:\nAdmitted:\nClub No. 3334\nVol.\nII\nNumber of charter members:\nSponsor club:\n24 April, 1930\n4 June, 1930\n22\nMukden, Manchuria\n</ocr_1>\n\nSecond OCR reading, from another engine, for comparison:\n<ocr_2>\n5525-0ct. 139-500\n\nCLUB WEMBERSH\nIN R, 1. TERMINATED\nDEG 31 1949\n\nROTARY CLUB OF HARBIN, MANCHURIA\n\nClub No. 3554\n\nVol, Il\n\nOrganized: 24 April, 1930\nAdmitted: 4 June, 1930\n\nNumber of charter members: ee\n\nSponsor clubs Mukden, Manchuria\n</ocr_2>\n",
+  "result": {
+    "text": "HISTORICAL BINDER\n[stamp: CLUB MEMBERSHIP IN R. I. TERMINATED DEC 31 1940]\nROTARY CLUB OF HARBIN, MANCHURIA\nClub No. 3334\nVol. II\nOrganized: 24 April, 1930\nAdmitted: 4 June, 1930\nNumber of charter members: 22\nSponsor club: Mukden, Manchuria\n[handwritten: pich]\n5525-Oct. '39-500",
+    "is_blank": false,
+    "illegible_note": null
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "text": "HISTORICAL BINDER\n[stamp: CLUB MEMBERSHIP IN R. I. TERMINATED DEC 31 1940]\nROTARY CLUB OF HARBIN, MANCHURIA\nClub No. 3334\nVol. II\nOrganized: 24 April, 1930\nAdmitted: 4 June, 1930\nNumber of charter members: 22\nSponsor club: Mukden, Manchuria\n[handwritten: pich]\n5525-Oct. '39-500",
+  "languages": [],
+  "is_blank": false,
+  "illegible_note": null,
+  "draft_layers": [
+    "provided",
+    "tesseract"
+  ],
+  "changes": {
+    "draft_words": 40,
+    "output_words": 42,
+    "kept": 1.0,
+    "new": 0.048
+  },
+  "provenance": {
+    "backend": "ollama",
+    "model": "qwen3-vl:8b",
+    "time": "2026-11-13T11:14:57+00:00",
+    "system_sha": "786456757d25",
+    "usage": {
+      "input_tokens": 2807,
+      "output_tokens": 5632,
+      "seconds": 363.9,
+      "stop_reason": "stop"
+    },
+    "cache_key": "973dd59d653bce16772e1694",
+    "attempts": 1,
+    "cached": false
+  }
+}
