@@ -64,7 +64,7 @@ Y0, Y1 = (int(years.min()), int(att["y1"].max())) if len(years) else (1919, 1952
 
 # ------------------------------------------------------------------ sidebar: filters shared by all tabs
 with st.sidebar:
-    st.title("RCAD")
+    st.header("Rotary in China Actor Database")
     st.caption(f"{len(person)} persons · {int(club['has_actor_data'].sum())} of {len(club)} clubs with data · {len(inst)} institutions")
     q = st.text_input("Search a name", placeholder="Gundsi · 軍司 · Mitsui")
     data_clubs = sorted(club.loc[club["has_actor_data"] == 1, "club_id"])

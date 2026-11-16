@@ -14,7 +14,7 @@ sys.path.insert(0, str(ROOT))
 from rctb.search import TextBase  # noqa: E402
 from rctb.util import Config  # noqa: E402
 
-st.set_page_config(page_title="Rotary in China Textual Database", layout="wide")
+st.set_page_config(page_title="Rotary in China Textbase", layout="wide")
 import os
 
 CONFIG = ROOT / os.environ.get("RCTB_CONFIG", "config.yaml")  # e.g. RCTB_CONFIG=config.local.yaml streamlit run app/app.py
@@ -66,7 +66,7 @@ if not RUNS:
     st.error(f"No database found under {cfg.out.parent}. Run the pipeline, or copy a results folder there.")
     st.stop()
 with st.sidebar:
-    st.title("RCTB")
+    st.header("Rotary in China Textbase")
     OUT = st.selectbox("Results to open", RUNS, index=RUNS.index(cfg.out) if cfg.out in RUNS else 0,
                        format_func=lambda p: p.name) if len(RUNS) > 1 else RUNS[0]
     st.caption(describe_run(OUT))
